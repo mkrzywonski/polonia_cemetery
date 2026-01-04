@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Polonia Cemetery | Online Genealogy Reference</title>
+    <meta
+      name="description"
+      content="A photographic index of Polonia Cemetery in Caldwell County, Texas."
+    />
+    <link rel="stylesheet" href="assets/styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Work+Sans:wght@300;400;600&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header class="hero">
+      <div class="topbar">
+        <div class="brand">
+          <span class="brand-mark"></span>
+          <span class="brand-text">Polonia Cemetery</span>
+        </div>
+        <nav class="topnav">
+          <a href="#about">About</a>
+          <a href="#featured">Featured</a>
+          <a href="#directory">Directory</a>
+        </nav>
+      </div>
+
+      <div class="hero-grid">
+        <div class="hero-copy" data-reveal>
+          <p class="eyebrow">Caldwell County, Texas</p>
+          <h1>Online genealogy reference for the Polonia community.</h1>
+          <p class="hero-lead">
+            A hand-built index of headstones and historic markers, preserved as a
+            simple, searchable archive for family research.
+          </p>
+          <div class="hero-actions">
+            <a class="button" href="#directory">Browse the directory</a>
+            <a class="button ghost" href="#featured">View featured photos</a>
+          </div>
+        </div>
+        <div class="hero-media" data-reveal>
+          <div class="hero-image">
+            <img src="images/027.jpg" alt="Polonia Cemetery entrance" />
+          </div>
+          <div class="hero-stats">
+            <div>
+              <p class="stat-label">Recorded entries</p>
+              <p class="stat-value" data-total-count>--</p>
+            </div>
+            <div>
+              <p class="stat-label">Photo archive</p>
+              <p class="stat-value" data-photo-count>--</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section id="about" class="section" data-reveal>
+        <div class="section-header">
+          <h2>About the collection</h2>
+          <p>
+            This site documents headstones and historic markers at Polonia
+            Cemetery. The goal is to keep the record accessible for families and
+            researchers who may not be able to visit in person.
+          </p>
+        </div>
+        <div class="info-grid">
+          <article>
+            <h3>Location</h3>
+            <p>
+              Polonia Cemetery sits outside of Luling, Texas, and has served the
+              local community for generations.
+            </p>
+          </article>
+          <article>
+            <h3>Photographic index</h3>
+            <p>
+              Each entry links to a headstone photo when available. Some names
+              remain listed without a photo to preserve the record.
+            </p>
+          </article>
+          <article>
+            <h3>Source links</h3>
+            <p>
+              A historical survey from 1995 is still available via
+              <a
+                href="http://www.rootsweb.com/~txcaldwe/polonia.txt"
+                target="_blank"
+                rel="noreferrer"
+                >RootsWeb</a
+              >.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section id="featured" class="section section-alt" data-reveal>
+        <div class="section-header">
+          <h2>Featured photos</h2>
+          <p>Highlights from the cemetery grounds and historic markers.</p>
+        </div>
+        <div class="card-grid">
+          <article class="photo-card" data-reveal>
+            <img src="images/027.jpg" alt="Polonia Cemetery entrance" />
+            <div>
+              <h3>Polonia Cemetery Entrance</h3>
+              <p>The entry drive and historic gate.</p>
+            </div>
+          </article>
+          <article class="photo-card" data-reveal>
+            <img src="images/035.jpg" alt="Historical marker" />
+            <div>
+              <h3>Historical Marker</h3>
+              <p>Community history captured in stone.</p>
+            </div>
+          </article>
+          <article class="photo-card" data-reveal>
+            <img src="images/014.jpg" alt="Old church site" />
+            <div>
+              <h3>Old Church Site</h3>
+              <p>Remains of the original parish grounds.</p>
+            </div>
+          </article>
+          <article class="photo-card" data-reveal>
+            <img src="images/017.jpg" alt="Old well" />
+            <div>
+              <h3>Old Well</h3>
+              <p>Water source for early settlers.</p>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section id="directory" class="section" data-reveal>
+        <div class="section-header">
+          <h2>Directory</h2>
+          <p>
+            Search the list of recorded names. Select any entry with a photo to
+            view the headstone image.
+          </p>
+        </div>
+
+        <div class="directory-controls" data-reveal>
+          <label class="search">
+            <span>Search names</span>
+            <input
+              type="search"
+              placeholder="Type a surname or given name"
+              data-search
+            />
+          </label>
+          <label class="toggle">
+            <input type="checkbox" data-photo-only />
+            <span>Only show entries with photos</span>
+          </label>
+          <p class="count" data-count></p>
+        </div>
+
+        <div class="records" data-records></div>
+      </section>
+    </main>
+
+    <footer class="footer" data-reveal>
+      <p>
+        Polonia Cemetery archive maintained for family research. Share updates or
+        corrections with the site owner.
+      </p>
+    </footer>
+
+    <div class="modal" data-modal aria-hidden="true" role="dialog">
+      <div class="modal-card">
+        <button class="modal-close" type="button" data-modal-close>
+          Close
+        </button>
+        <img src="" alt="" />
+        <p class="modal-name" data-modal-name></p>
+      </div>
+    </div>
+
+    <script src="assets/app.js"></script>
+  </body>
+</html>
