@@ -264,6 +264,10 @@ img {
   margin-bottom: 24px;
 }
 
+.search {
+  position: relative;
+}
+
 .search span {
   display: block;
   font-size: 0.85rem;
@@ -274,10 +278,32 @@ img {
 
 .search input {
   width: 100%;
-  padding: 12px 14px;
+  padding: 12px 48px 12px 14px;
   border-radius: 12px;
   border: 1px solid rgba(42, 31, 26, 0.15);
   font-size: 1rem;
+}
+
+.clear-search {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  border: 0;
+  background: var(--sand);
+  color: var(--ink);
+  padding: 6px 10px;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+
+.clear-search:hover {
+  filter: brightness(0.97);
+}
+
+.clear-search:focus-visible {
+  outline: 2px solid rgba(42, 31, 26, 0.4);
+  outline-offset: 2px;
 }
 
 .toggle {

@@ -604,6 +604,7 @@ const records = [
 const listEl = document.querySelector('[data-records]');
 const countEl = document.querySelector('[data-count]');
 const searchEl = document.querySelector('[data-search]');
+const clearSearchEl = document.querySelector('[data-clear-search]');
 const photoOnlyEl = document.querySelector('[data-photo-only]');
 const totalCountEl = document.querySelector('[data-total-count]');
 const photoCountEl = document.querySelector('[data-photo-count]');
@@ -614,24 +615,36 @@ const modalClose = modalEl.querySelector('[data-modal-close]');
 
 const revealEls = document.querySelectorAll('[data-reveal]');
 
-const observer = new IntersectionObserver(
-  (entries) => {
-    entries.forEach((entry) => {
-      if (entry.isIntersecting) {
-        entry.target.classList.add('is-visible');
-        observer.unobserve(entry.target);
-      }
-    });
-  },
-  { threshold: 0.2 }
-);
+if ('IntersectionObserver' in window) {
+  const observer = new IntersectionObserver(
+    (entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('is-visible');
+          observer.unobserve(entry.target);
+        }
+      });
+    },
+    { threshold: 0.2 }
+  );
 
-revealEls.forEach((el, index) => {
-  el.style.setProperty('--delay', `${Math.min(index * 90, 600)}ms`);
-  observer.observe(el);
-});
+  revealEls.forEach((el, index) => {
+    el.style.setProperty('--delay', `${Math.min(index * 90, 600)}ms`);
+    observer.observe(el);
+  });
+} else {
+  revealEls.forEach((el, index) => {
+    el.style.setProperty('--delay', `${Math.min(index * 90, 600)}ms`);
+    el.classList.add('is-visible');
+  });
+}
 
 const normalize = (value) => value.toLowerCase().replace(/\s+/g, ' ').trim();
+const updateClearState = () => {
+  if (!clearSearchEl) return;
+  const hasValue = searchEl.value.trim().length > 0;
+  clearSearchEl.hidden = !hasValue;
+};
 
 const totalCount = records.length;
 const photoCount = records.filter((record) => record.image).length;
@@ -677,6 +690,7 @@ const render = () => {
   });
 
   countEl.textContent = `${filtered.length} of ${records.length} records`;
+  updateClearState();
 };
 
 const closeModal = () => {
@@ -699,5 +713,12 @@ window.addEventListener('keydown', (event) => {
 
 searchEl.addEventListener('input', render);
 photoOnlyEl.addEventListener('change', render);
+if (clearSearchEl) {
+  clearSearchEl.addEventListener('click', () => {
+    searchEl.value = '';
+    render();
+    searchEl.focus();
+  });
+}
 
 render();
