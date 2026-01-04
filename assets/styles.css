@@ -148,6 +148,14 @@ img {
   overflow: hidden;
   box-shadow: var(--shadow);
   border: 4px solid rgba(255, 255, 255, 0.8);
+  aspect-ratio: 4 / 3;
+}
+
+.hero-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 35%;
 }
 
 .hero-stats {
