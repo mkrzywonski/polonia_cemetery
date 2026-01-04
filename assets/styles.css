@@ -337,6 +337,45 @@ img {
   color: var(--ink-soft);
 }
 
+.name-index {
+  margin-top: 26px;
+  padding: 16px 18px;
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.7);
+  border: 1px solid rgba(42, 31, 26, 0.12);
+}
+
+.name-index summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.name-index-list {
+  margin-top: 12px;
+}
+
+.name-index-columns {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  column-count: 2;
+  column-gap: 24px;
+}
+
+.name-index-columns li {
+  break-inside: avoid;
+  padding: 3px 0;
+  font-size: 0.92rem;
+  color: var(--ink-soft);
+}
+
+@media (min-width: 900px) {
+  .name-index-columns {
+    column-count: 3;
+  }
+}
+
 .footer {
   max-width: var(--max-width);
   margin: 0 auto 60px;
