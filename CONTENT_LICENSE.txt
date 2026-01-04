@@ -1,0 +1,13 @@
+Content (text, photos, and data) is licensed under
+Creative Commons Attribution 4.0 International.
+
+You are free to share and adapt the material for any purpose, even
+commercially, as long as appropriate credit is given.
+
+Full license: https://creativecommons.org/licenses/by/4.0/
+Legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Attribution should include:
+- "Polonia Cemetery archive" by Mike Krzywonski
+- A link back to this repository or site
+- The CC BY 4.0 license link above

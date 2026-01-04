@@ -336,6 +336,11 @@ img {
   color: var(--ink-soft);
 }
 
+.footer-license {
+  margin-top: 12px;
+  font-size: 0.9rem;
+}
+
 .modal {
   position: fixed;
   inset: 0;
