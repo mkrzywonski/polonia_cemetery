@@ -625,7 +625,7 @@ if ('IntersectionObserver' in window) {
         }
       });
     },
-    { threshold: 0.2 }
+    { threshold: 0.01 }
   );
 
   revealEls.forEach((el, index) => {
