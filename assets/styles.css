@@ -43,6 +43,22 @@ img {
   border-bottom: 1px solid rgba(42, 31, 26, 0.08);
 }
 
+.hero-compact {
+  padding: 24px 6vw;
+}
+
+.brand-link {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.topnav a.is-active {
+  border-color: var(--gold);
+}
+
 .topbar {
   display: flex;
   align-items: center;
@@ -233,6 +249,55 @@ img {
   margin-bottom: 10px;
 }
 
+.about-grid {
+  display: grid;
+  grid-template-columns: 1fr 1.5fr;
+  gap: 40px;
+  align-items: start;
+}
+
+.about-image {
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+}
+
+.about-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.about-text {
+  color: var(--ink-soft);
+  line-height: 1.7;
+}
+
+.about-text p {
+  margin: 0 0 1.2em;
+}
+
+.about-text p:last-child {
+  margin-bottom: 0;
+}
+
+.founding-families {
+  padding: 16px 20px;
+  background: var(--sand);
+  border-radius: var(--radius-sm);
+  font-size: 0.95rem;
+}
+
+@media (max-width: 768px) {
+  .about-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .about-image {
+    max-width: 400px;
+  }
+}
+
 .card-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -337,7 +402,6 @@ img {
   border-radius: 14px;
   background: #fff;
   border: 1px solid rgba(42, 31, 26, 0.1);
-  cursor: pointer;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
@@ -346,16 +410,36 @@ img {
   box-shadow: var(--shadow);
 }
 
-.record-card:disabled {
-  cursor: default;
-  opacity: 0.7;
-  box-shadow: none;
-}
-
 .record-name {
   display: block;
   font-weight: 600;
   margin-bottom: 6px;
+}
+
+.record-dates {
+  display: block;
+  font-size: 0.9rem;
+  color: var(--ink-soft);
+  margin-bottom: 4px;
+}
+
+.record-inscription {
+  margin: 8px 0;
+  padding: 8px 10px;
+  background: var(--sand);
+  border-radius: 8px;
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+  font-style: italic;
+}
+
+.record-inscription p {
+  margin: 0;
+  line-height: 1.4;
+}
+
+.record-inscription p + p {
+  margin-top: 4px;
 }
 
 .record-meta {
@@ -363,44 +447,182 @@ img {
   color: var(--ink-soft);
 }
 
-.name-index {
-  margin-top: 26px;
-  padding: 16px 18px;
-  border-radius: 16px;
-  background: rgba(255, 255, 255, 0.7);
-  border: 1px solid rgba(42, 31, 26, 0.12);
-}
-
-.name-index summary {
-  cursor: pointer;
-  font-weight: 600;
-  color: var(--ink);
-}
-
-.name-index-list {
+.record-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
   margin-top: 12px;
 }
 
-.name-index-columns {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  column-count: 2;
-  column-gap: 24px;
+.record-button {
+  border: 0;
+  background: var(--moss);
+  color: #fff;
+  padding: 8px 14px;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  cursor: pointer;
 }
 
-.name-index-columns li {
-  break-inside: avoid;
-  padding: 3px 0;
-  font-size: 0.92rem;
+.record-button.ghost {
+  background: rgba(42, 31, 26, 0.08);
+  color: var(--ink);
+}
+
+.record-button:disabled {
+  cursor: default;
+  opacity: 0.6;
+}
+
+
+.map-frame {
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid rgba(42, 31, 26, 0.12);
+  background: rgba(255, 255, 255, 0.65);
+}
+
+.cemetery-map {
+  width: 100%;
+  min-height: 360px;
+}
+
+.cemetery-map-full {
+  min-height: 70vh;
+}
+
+.section-map {
+  padding-bottom: 40px;
+}
+
+.leaflet-container {
+  background: #f7f1e9;
+}
+
+.map-controls {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.map-controls button {
+  border: 0;
+  padding: 10px 16px;
+  border-radius: 999px;
+  font-size: 0.9rem;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.edit-toggle {
+  background: rgba(42, 31, 26, 0.08);
+  color: var(--ink);
+}
+
+.edit-toggle.is-active {
+  background: var(--rust);
+  color: #fff;
+}
+
+.export-btn {
+  background: var(--moss);
+  color: #fff;
+}
+
+.export-btn:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.edit-status {
+  font-size: 0.85rem;
   color: var(--ink-soft);
 }
 
-@media (min-width: 900px) {
-  .name-index-columns {
-    column-count: 3;
-  }
+.edit-status strong {
+  color: var(--rust);
 }
+
+.export-modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(20, 14, 10, 0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.2s ease;
+  padding: 24px;
+  z-index: 2000;
+}
+
+.export-modal.is-open {
+  opacity: 1;
+  visibility: visible;
+}
+
+.export-card {
+  background: #fff;
+  border-radius: var(--radius);
+  padding: 24px;
+  max-width: 800px;
+  width: 100%;
+  max-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  box-shadow: var(--shadow);
+}
+
+.export-card h3 {
+  margin: 0 0 12px;
+  font-family: "Fraunces", "Times New Roman", serif;
+}
+
+.export-card p {
+  margin: 0 0 16px;
+  color: var(--ink-soft);
+  font-size: 0.95rem;
+}
+
+.export-card textarea {
+  flex: 1;
+  min-height: 300px;
+  font-family: monospace;
+  font-size: 0.85rem;
+  padding: 12px;
+  border: 1px solid rgba(42, 31, 26, 0.15);
+  border-radius: 8px;
+  resize: none;
+}
+
+.export-actions {
+  display: flex;
+  gap: 12px;
+  margin-top: 16px;
+}
+
+.export-actions button {
+  border: 0;
+  padding: 10px 18px;
+  border-radius: 999px;
+  font-size: 0.9rem;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.copy-btn {
+  background: var(--moss);
+  color: #fff;
+}
+
+.close-export-btn {
+  background: rgba(42, 31, 26, 0.08);
+  color: var(--ink);
+}
+
 
 .footer {
   max-width: var(--max-width);
@@ -425,6 +647,7 @@ img {
   visibility: hidden;
   transition: opacity 0.2s ease;
   padding: 24px;
+  z-index: 10000;
 }
 
 .modal.is-open {
@@ -442,6 +665,13 @@ img {
   text-align: center;
 }
 
+.modal-gallery {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .modal-card img {
   border-radius: 12px;
   max-height: 70vh;
@@ -449,9 +679,118 @@ img {
   object-fit: contain;
 }
 
+.modal-nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(42, 31, 26, 0.7);
+  color: #fff;
+  border: 0;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  font-size: 1.8rem;
+  line-height: 1;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.2s ease;
+}
+
+.modal-nav:hover {
+  background: rgba(42, 31, 26, 0.9);
+}
+
+.modal-nav[hidden] {
+  display: none;
+}
+
+.modal-prev {
+  left: -22px;
+}
+
+.modal-next {
+  right: -22px;
+}
+
 .modal-name {
   margin-top: 16px;
   font-weight: 600;
+}
+
+.modal-dates {
+  margin: 6px 0 0;
+  font-size: 0.95rem;
+  color: var(--ink-soft);
+}
+
+.modal-inscription {
+  margin: 12px auto 0;
+  padding: 10px 12px;
+  background: var(--sand);
+  border-radius: 10px;
+  font-size: 0.9rem;
+  color: var(--ink-soft);
+  font-style: italic;
+  max-width: 520px;
+}
+
+.modal-inscription p {
+  margin: 0;
+  line-height: 1.4;
+}
+
+.modal-inscription p + p {
+  margin-top: 6px;
+}
+
+.modal-counter {
+  margin: 8px 0 0;
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+}
+
+.map-modal-card {
+  max-width: 760px;
+}
+
+.map-preview {
+  position: relative;
+  width: 100%;
+  margin: 12px auto 0;
+}
+
+.map-preview img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 14px;
+  border: 1px solid rgba(42, 31, 26, 0.12);
+  max-height: none;
+  object-fit: unset;
+}
+
+.map-marker {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: var(--rust);
+  border: 2px solid #fff;
+  box-shadow: 0 6px 18px rgba(42, 31, 26, 0.3);
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+}
+
+@media (max-width: 640px) {
+  .modal-prev {
+    left: 8px;
+  }
+
+  .modal-next {
+    right: 8px;
+  }
 }
 
 .modal-close {
@@ -515,5 +854,9 @@ img {
   .hero-actions {
     flex-direction: column;
     align-items: flex-start;
+  }
+
+  .cemetery-map {
+    min-height: 300px;
   }
 }

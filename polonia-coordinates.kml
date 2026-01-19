@@ -1,0 +1,2823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Polonia Cemetery Markers</name>
+	<description>Generated from assets/records.js</description>
+	<gx:CascadingStyle kml:id="__managed_style_58319988F33CC59697B7">
+		<Style>
+			<IconStyle>
+				<scale>1.44</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_43B21956323CC59697B7">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_3DCEC9CB743CC59697B7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_43B21956323CC59697B7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_58319988F33CC59697B7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_15C605133C3CC4BB9EF9">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ff4f4737</bgColor>
+				<gx:displayMode>fullscreen</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_00A12101D83CC4BB9EF9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_15C605133C3CC4BB9EF9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_22513DE0B03CC4BB9EF9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_23AF6D05AD3CC4BB0D00">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_22513DE0B03CC4BB9EF9">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ff4f4737</bgColor>
+				<gx:displayMode>fullscreen</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1C17548F4B3CC4BB0D00">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_06C0F645E73CC4BB0D00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1C17548F4B3CC4BB0D00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_23AF6D05AD3CC4BB0D00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_202956C80D3CC61502C4">
+		<Style>
+			<IconStyle>
+				<scale>1.44</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>Name: Dedek, Anna
+Photos:
+- 116.jpg</text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_165BBB0B823CC61502C4">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>Name: Dedek, Anna
+Photos:
+- 116.jpg</text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0DBB4F90AD3CC61502C4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_165BBB0B823CC61502C4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_202956C80D3CC61502C4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="03BFFB54773CC4B08E06">
+		<name>Balandran, Saturnino</name>
+		<description>Name: Balandran, Saturnino
+Photos:
+- 089.jpg</description>
+		<Point>
+			<coordinates>-97.70575724918126,29.93990699080565,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="14F0A51D6F3CC4B08E06">
+		<name>Bieniek, Zofia</name>
+		<description>Name: Bieniek, Zofia
+Photos:
+- 125.jpg</description>
+		<Point>
+			<coordinates>-97.70584070085305,29.94015556316606,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05C89377083CC4B08E07">
+		<name>Dedek, Anna</name>
+		<styleUrl>#__managed_style_0DBB4F90AD3CC61502C4</styleUrl>
+		<Point>
+			<coordinates>-97.70582223674565,29.94011504939274,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="12F08FCC343CC4B08E07">
+		<name>Dedek, Kate</name>
+		<description>Name: Dedek, Kate
+Photos:
+- 060.jpg</description>
+		<Point>
+			<coordinates>-97.7058638324672,29.94018790919109,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2E3F8CA5C03CC4B08E07">
+		<name>Foryszewski, Felix</name>
+		<description>Name: Foryszewski, Felix
+Photos:
+- 029.jpg</description>
+		<Point>
+			<coordinates>-97.70585739228548,29.94012717974535,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="3C09E8FE6F3CC4B08E07">
+		<name>Foryszewski, Frances</name>
+		<description>Name: Foryszewski, Frances
+Photos:
+- 029.jpg</description>
+		<Point>
+			<coordinates>-97.70585811511491,29.94013379774389,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="493F1ED4FC3CC4B08E07">
+		<name>Foryszewski, Joe</name>
+		<description>Name: Foryszewski, Joe
+Photos:
+- 042.jpg</description>
+		<Point>
+			<coordinates>-97.70586544121603,29.9401586273111,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="50EE28AAC83CC4B08E07">
+		<name>Foryszewski, John</name>
+		<description>Name: Foryszewski, John
+Photos:
+- 052.jpg</description>
+		<Point>
+			<coordinates>-97.70586280605059,29.94014528684868,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="6B93CDE98F3CC4B08E07">
+		<name>Foryszewski, Leona E.</name>
+		<description>Name: Foryszewski, Leona E.
+Photos:
+No photos listed.</description>
+		<Point>
+			<coordinates>-97.70586665066021,29.94016856716756,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="7D02786A763CC4B08E07">
+		<name>Foryszpwski, Ludwika</name>
+		<description>Name: Foryszpwski, Ludwika
+Photos:
+- 068.jpg</description>
+		<Point>
+			<coordinates>-97.70585877608423,29.94010910987546,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="8F499F73823CC4B08E07">
+		<name>Grabarkewitz, Anna</name>
+		<description>Name: Grabarkewitz, Anna
+Photos:
+- 005.jpg</description>
+		<Point>
+			<coordinates>-97.70585558149999,29.94033735742758,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="96E7E880A53CC4B08E07">
+		<name>Grabarkewitz, Connie T.</name>
+		<description>Name: Grabarkewitz, Connie T.
+Photos:
+- 015.jpg</description>
+		<Point>
+			<coordinates>-97.70582576539935,29.94034277591165,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="AB5212F7933CC4B08E07">
+		<name>Grabarkewitz, Irene B.</name>
+		<description>Name: Grabarkewitz, Irene B.
+Photos:
+- 099.jpg</description>
+		<Point>
+			<coordinates>-97.70582534787077,29.94032449435493,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="B22CDBC57B3CC4B08E07">
+		<name>Grabarkewitz, John</name>
+		<description>Name: Grabarkewitz, John
+Photos:
+- 005.jpg</description>
+		<Point>
+			<coordinates>-97.70585654252169,29.94034415849453,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="CBE31064C13CC4B08E07">
+		<name>Grabarkewitz, Leopold</name>
+		<description>Name: Grabarkewitz, Leopold
+Photos:
+- 064.jpg</description>
+		<Point>
+			<coordinates>-97.70585445705217,29.94030999819111,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="D0E3F286A13CC4B08E07">
+		<name>Grabarkewitz, Regina</name>
+		<description>Name: Grabarkewitz, Regina
+Photos:
+- 085.jpg</description>
+		<Point>
+			<coordinates>-97.70585508097449,29.94031725623676,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="ED77F912F63CC4B08E07">
+		<name>Grabarkewitz, Steve J.</name>
+		<description>Name: Grabarkewitz, Steve J.
+Photos:
+- 099.jpg</description>
+		<Point>
+			<coordinates>-97.70582444171067,29.94031771813559,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="F3FED5B2D63CC4B08E07">
+		<name>Grabarkewitz, Theodore R.</name>
+		<description>Name: Grabarkewitz, Theodore R.
+Photos:
+- 015.jpg</description>
+		<Point>
+			<coordinates>-97.70582697174579,29.94034877817645,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="10AC0A640003CC4B08E07">
+		<name>Holmes, Josephine S.</name>
+		<description>Name: Holmes, Josephine S.
+Photos:
+- 058.jpg</description>
+		<Point>
+			<coordinates>-97.70584407019821,29.94026538618563,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="11B98CB77483CC4B08E07">
+		<name>Kalinowski, Baby Girl</name>
+		<description>Name: Kalinowski, Baby Girl
+Photos:
+- 007.jpg</description>
+		<Point>
+			<coordinates>-97.70581475652529,29.9402505228134,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1239B04BA453CC4B08E07">
+		<name>Kalinowski, Bill</name>
+		<description>Name: Kalinowski, Bill
+Photos:
+- 008.jpg</description>
+		<Point>
+			<coordinates>-97.7058121019808,29.94023863466725,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="13D0C13C5173CC4B08E07">
+		<name>Kalinowski, Cecelia T.</name>
+		<description>Name: Kalinowski, Cecelia T.
+Photos:
+- 124.jpg</description>
+		<Point>
+			<coordinates>-97.70579400000001,29.940186,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1491D0BC3183CC4B08E07">
+		<name>Kalinowski, Mary</name>
+		<description>Name: Kalinowski, Mary
+Photos:
+- 071.jpg</description>
+		<Point>
+			<coordinates>-97.70580931383628,29.94022725271922,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="15390D77E7F3CC4B08E07">
+		<name>Kalinowski, Simon</name>
+		<description>Name: Kalinowski, Simon
+Photos:
+- 092.jpg</description>
+		<Point>
+			<coordinates>-97.70580668154358,29.94021592725213,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="16A7A3D757E3CC4B08E07">
+		<name>Kalinowski, Zigmond S.</name>
+		<description>Name: Kalinowski, Zigmond S.
+Photos:
+- 124.jpg</description>
+		<Point>
+			<coordinates>-97.70579400000001,29.940186,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="179EAE289AA3CC4B08E07">
+		<name>Kenney, Leona Charlotte</name>
+		<description>Name: Kenney, Leona Charlotte
+Photos:
+- 131.jpg</description>
+		<Point>
+			<coordinates>-97.70566496437888,29.94000379162761,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="18A68BD6A643CC4B08E07">
+		<name>Kenney, William Harry</name>
+		<description>Name: Kenney, William Harry
+Photos:
+- 131.jpg</description>
+		<Point>
+			<coordinates>-97.70566633269931,29.94001059462521,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1930E0577483CC4B08E07">
+		<name>Krzywosinski, John (1847-1919)</name>
+		<description>Name: Krzywosinski, John (1847-1919)
+Photos:
+- 048.jpg</description>
+		<Point>
+			<coordinates>-97.70584117843772,29.94007942066879,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1A0F7C5A5AE3CC4B08E07">
+		<name>Krzywosinski, John (1901-1968)</name>
+		<description>Name: Krzywosinski, John (1901-1968)
+Photos:
+- 050.jpg</description>
+		<Point>
+			<coordinates>-97.70567219770794,29.94034301339276,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1B99396D8333CC4B08E07">
+		<name>Krzywosinski, Prakseda</name>
+		<description>Name: Krzywosinski, Prakseda
+Photos:
+- 048.jpg</description>
+		<Point>
+			<coordinates>-97.7058420102825,29.94008479105747,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1C26503E3303CC4B08E07">
+		<name>Perry, Edward Keith</name>
+		<description>Name: Perry, Edward Keith
+Photos:
+- 134.jpg</description>
+		<Point>
+			<coordinates>-97.70582209376178,29.93976125204341,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1D295831A093CC4B08E07">
+		<name>Perry, Heather Lynnette</name>
+		<description>Name: Perry, Heather Lynnette
+Photos:
+- 133.jpg</description>
+		<Point>
+			<coordinates>-97.70579579590877,29.93976109218791,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1E2CE0A47803CC4B08E07">
+		<name>Perry, Rose Marie</name>
+		<description>Name: Perry, Rose Marie
+Photos:
+- 134.jpg</description>
+		<Point>
+			<coordinates>-97.70581856290943,29.93975073552316,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1F8A86783283CC4B08E07">
+		<name>Pieniazek, Michael</name>
+		<description>Name: Pieniazek, Michael
+Photos:
+- 073.jpg</description>
+		<Point>
+			<coordinates>-97.70587015069178,29.94007791660419,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="20F88231CF13CC4B08E07">
+		<name>Rakowitz, Ike L.</name>
+		<description>Name: Rakowitz, Ike L.
+Photos:
+- 038.jpg</description>
+		<Point>
+			<coordinates>-97.70584848185705,29.94028464965152,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="211BC45FBAC3CC4B08E07">
+		<name>Rakowitz, Annie V.</name>
+		<description>Name: Rakowitz, Annie V.
+Photos:
+- 084.jpg</description>
+		<Point>
+			<coordinates>-97.70581049084774,29.94029312590104,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="22B2A62B9363CC4B08E07">
+		<name>Rakowitz, Janie</name>
+		<description>Name: Rakowitz, Janie
+Photos:
+- 044.jpg</description>
+		<Point>
+			<coordinates>-97.70589588901591,29.94031034824514,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="23226EDE4163CC4B08E07">
+		<name>Rakowitz, John</name>
+		<description>Name: Rakowitz, John
+Photos:
+- 044.jpg</description>
+		<Point>
+			<coordinates>-97.70588600000001,29.940303,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="241ED586AFC3CC4B08E07">
+		<name>Rakowitz, Pete</name>
+		<description>Name: Rakowitz, Pete
+Photos:
+- 080.jpg</description>
+		<Point>
+			<coordinates>-97.70588275197034,29.94028887994925,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="257F09DD71E3CC4B08E07">
+		<name>Rakowitz, Sylvester J.</name>
+		<description>Name: Rakowitz, Sylvester J.
+Photos:
+- 084.jpg</description>
+		<Point>
+			<coordinates>-97.70580943046879,29.94028447926138,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2668A4238903CC4B08E07">
+		<name>Scholwinski, Age 9</name>
+		<description>Name: Scholwinski, Age 9
+Photos:
+- 090.jpg</description>
+		<Point>
+			<coordinates>-97.70593028095951,29.94038364683812,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="27CE83FBF593CC4B08E07">
+		<name>Scholwinski, Sophie</name>
+		<description>Name: Scholwinski, Sophie
+Photos:
+- 094.jpg</description>
+		<Point>
+			<coordinates>-97.70586791089265,29.94022355531857,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2828257D67B3CC4B08E07">
+		<name>Sykowski, Joseph</name>
+		<description>Name: Sykowski, Joseph
+Photos:
+- 061.jpg</description>
+		<Point>
+			<coordinates>-97.70584200174842,29.94006178204672,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="296D95D63443CC4B08E07">
+		<name>Sykowski, Katherine</name>
+		<description>Name: Sykowski, Katherine
+Photos:
+- 061.jpg</description>
+		<Point>
+			<coordinates>-97.7058406411779,29.94005428303102,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2A2E0CA32583CC4B08E07">
+		<name>Urbanski, Angela</name>
+		<description>Name: Urbanski, Angela
+Photos:
+- 004.jpg</description>
+		<Point>
+			<coordinates>-97.70588700283287,29.94031986458451,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2B88496A2A83CC4B08E07">
+		<name>Urbanski, Ignatz</name>
+		<description>Name: Urbanski, Ignatz
+Photos:
+- 037.jpg</description>
+		<Point>
+			<coordinates>-97.70586397413147,29.9402005687416,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2CAD63BD5833CC4B08E07">
+		<name>Urbanski, John</name>
+		<description>Name: Urbanski, John
+Photos:
+- 053.jpg</description>
+		<Point>
+			<coordinates>-97.70584034007761,29.94020374301151,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2D139490A133CC4B08E07">
+		<name>Urbanski, Josephine</name>
+		<description>Name: Urbanski, Josephine
+Photos:
+- 037.jpg</description>
+		<Point>
+			<coordinates>-97.7058644313648,29.94020619530678,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2E629CE835A3CC4B08E07">
+		<name>Urbanski, Mary</name>
+		<description>Name: Urbanski, Mary
+Photos:
+- 101.jpg</description>
+		<Point>
+			<coordinates>-97.70590042190416,29.94034082881902,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2FFE9A572AD3CC4B08E07">
+		<name>Urbanski, Steve</name>
+		<description>Name: Urbanski, Steve
+Photos:
+- 101.jpg</description>
+		<Point>
+			<coordinates>-97.70589893532383,29.94033319258449,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="308EF27AB9C3CC4B08E07">
+		<name>Walenta, Adolph</name>
+		<description>Name: Walenta, Adolph
+Photos:
+- 003.jpg</description>
+		<Point>
+			<coordinates>-97.70586099611712,29.93974290375361,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="31C2D9AE48B3CC4B08E07">
+		<name>Walenta, Billy Ray</name>
+		<description>Name: Walenta, Billy Ray
+Photos:
+- 132.jpg</description>
+		<Point>
+			<coordinates>-97.70564818096776,29.93988999937537,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="32B257BB7963CC4B08E07">
+		<name>Walenta, Bonnie</name>
+		<description>Name: Walenta, Bonnie
+Photos:
+- 003.jpg</description>
+		<Point>
+			<coordinates>-97.70586146061514,29.9397541331933,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="334217A1E7B3CC4B08E07">
+		<name>Walenta, Joyce Marie</name>
+		<description>Name: Walenta, Joyce Marie
+Photos:
+- 132.jpg</description>
+		<Point>
+			<coordinates>-97.70564901040677,29.93990300096406,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="342965842773CC4B08E07">
+		<name>Zaleski, Constance</name>
+		<description>Name: Zaleski, Constance
+Photos:
+- 016.jpg</description>
+		<Point>
+			<coordinates>-97.70580157115022,29.94004621596535,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="357088360A03CC4B08E07">
+		<name>Zaleski, Josephine</name>
+		<description>Name: Zaleski, Josephine
+Photos:
+- 059.jpg</description>
+		<Point>
+			<coordinates>-97.70580827984334,29.94007168126985,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="368C451AC933CC4B08E07">
+		<name>Zaleski, Maggie M.</name>
+		<description>Name: Zaleski, Maggie M.
+Photos:
+- 016.jpg</description>
+		<Point>
+			<coordinates>-97.70580411144086,29.94005552536608,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="37214DA4E603CC4B08E07">
+		<name>Zaleski, Wyadyslaw</name>
+		<description>Name: Zaleski, Wyadyslaw
+Photos:
+- 123.jpg</description>
+		<Point>
+			<coordinates>-97.70582778670658,29.94013610134999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="38071E546953CC4B08E07">
+		<name>Zaleski, Wyadysyawa</name>
+		<description>Name: Zaleski, Wyadysyawa
+Photos:
+- 123.jpg</description>
+		<Point>
+			<coordinates>-97.70582997499989,29.94014423544584,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="393EA08C4FD3CC4B08E07">
+		<name>Zalewski, Anna</name>
+		<description>Name: Zalewski, Anna
+Photos:
+- 120.jpg</description>
+		<Point>
+			<coordinates>-97.70581482377428,29.94009704517119,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="3AC1D1316513CC4B08E07">
+		<name>Zalewski, Wailenti</name>
+		<description>Name: Zalewski, Wailenti
+Photos:
+- 120.jpg</description>
+		<Point>
+			<coordinates>-97.70581351610726,29.94009171241935,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="3B2B8FABA083CC4B08E07">
+		<name>Zolewski, Raimut</name>
+		<description>Name: Zolewski, Raimut
+Photos:
+- 082.jpg</description>
+		<Point>
+			<coordinates>-97.70588951716525,29.94011501412654,0</coordinates>
+		</Point>
+	</Placemark>
+	<GroundOverlay id="07FF13536B3CC4BB0CF9">
+		<name>Untitled overlay</name>
+		<styleUrl>#__managed_style_06C0F645E73CC4BB0D00</styleUrl>
+		<Icon>
+			<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+		</Icon>
+		<LatLonBox>
+			<north>85</north>
+			<south>-85</south>
+			<east>180</east>
+			<west>-180</west>
+		</LatLonBox>
+		<gx:MapTilePyramid>
+			<gx:minLevel>0</gx:minLevel>
+			<gx:maxLevel>22</gx:maxLevel>
+		</gx:MapTilePyramid>
+	</GroundOverlay>
+	<Placemark id="0E34316A443CC4BB9EF4">
+		<name>Untitled slide</name>
+		<styleUrl>#__managed_style_00A12101D83CC4BB9EF9</styleUrl>
+	</Placemark>
+	<Placemark id="054D17B11A3CC59697B0">
+		<name>Unknown</name>
+		<LookAt>
+			<longitude>-97.70574961577535</longitude>
+			<latitude>29.93981346819351</latitude>
+			<altitude>159.9239517039469</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>70.57524537691279</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70569386863374,29.93983038566857,159.6563738679023</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F00CBB8283CC59701B8">
+		<name>Unknown</name>
+		<LookAt>
+			<longitude>-97.70574961577535</longitude>
+			<latitude>29.93981346819351</latitude>
+			<altitude>159.9239517039469</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>70.57524537691279</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70568940651309,29.93981111983322,159.6596172874566</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0621F0C33F3CC5FFFE04">
+		<name>Unknown</name>
+		<LookAt>
+			<longitude>-97.70589578087986</longitude>
+			<latitude>29.94036332131954</latitude>
+			<altitude>158.6978532800246</altitude>
+			<heading>-6.597964251234298</heading>
+			<tilt>5.697002949578699</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.26663115646443</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70592425683465,29.94036515936822,158.6873693702566</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C91FE014C3CC623665C">
+		<name>Unknown (Cross with circle)</name>
+		<LookAt>
+			<longitude>-97.70585140873483</longitude>
+			<latitude>29.94028879894008</latitude>
+			<altitude>159.0513804773445</altitude>
+			<heading>-6.598032253350099</heading>
+			<tilt>5.572398963112918</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>52.21151172177088</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70587732366479,29.94027498998626,159.1681992250813</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="008AA2F7A23CC62AE378">
+		<name>Lempar, Wincent E</name>
+		<LookAt>
+			<longitude>-97.70554352847624</longitude>
+			<latitude>29.94037477885393</latitude>
+			<altitude>158.318006010271</altitude>
+			<heading>-6.597758403281209</heading>
+			<tilt>5.572375481877731</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.07678054290864</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70546961963677,29.94037490293784,157.9327138026859</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="096FF88FFD3CC62BAEF4">
+		<name>Lempar, Ottilia</name>
+		<LookAt>
+			<longitude>-97.70554352856198</longitude>
+			<latitude>29.94037477878525</latitude>
+			<altitude>158.3180012952479</altitude>
+			<heading>-6.597810543710641</heading>
+			<tilt>5.572375491211235</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.0767892345084</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70547089634307,29.94038079941128,157.8345812432546</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06F31688813CC62E2DF4">
+		<name>Dzienowski Lempar, Emilie Marie</name>
+		<LookAt>
+			<longitude>-97.7054469396827</longitude>
+			<latitude>29.94030646697265</latitude>
+			<altitude>158.0666433763692</altitude>
+			<heading>-6.597752103755123</heading>
+			<tilt>5.558031859475845</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.24380411829497</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70546179031756,29.94030840763672,158.2119485890971</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="018EBE3E6B3CC62EF8A1">
+		<name>Lempar, Conrad Joseph</name>
+		<LookAt>
+			<longitude>-97.7054469396827</longitude>
+			<latitude>29.94030646697265</latitude>
+			<altitude>158.0666433763692</altitude>
+			<heading>-6.597752103755127</heading>
+			<tilt>5.558031892666302</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.24380411829497</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70545996682425,29.94029453063844,158.2969423214276</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C1630889E3CC62FC910">
+		<name>Krzywonski, Josephine M</name>
+		<LookAt>
+			<longitude>-97.7054445626638</longitude>
+			<latitude>29.94026996519572</latitude>
+			<altitude>158.1906489071932</altitude>
+			<heading>-6.597750917422974</heading>
+			<tilt>5.55736774408078</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.12403387360337</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70545289164484,29.94026997515953,158.2193486092106</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0873B7CC443CC6301170">
+		<name>Krzywonski, Tom</name>
+		<LookAt>
+			<longitude>-97.7054445626638</longitude>
+			<latitude>29.94026996519572</latitude>
+			<altitude>158.1906489071932</altitude>
+			<heading>-6.597750917422974</heading>
+			<tilt>5.55736774408078</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.12403387360337</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70545221170974,29.94026329240928,158.2578620624395</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="030E0A32193CC63066E0">
+		<name>Krzywonski, Mark A</name>
+		<LookAt>
+			<longitude>-97.7054445626638</longitude>
+			<latitude>29.94026996519572</latitude>
+			<altitude>158.1906489071932</altitude>
+			<heading>-6.597750917422974</heading>
+			<tilt>5.55736774408078</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.12403387360337</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70545211409313,29.94025425416531,158.295097447329</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AB4E7390F3CC63149C6">
+		<name>Everett, John Richard</name>
+		<LookAt>
+			<longitude>-97.70547239500404</longitude>
+			<latitude>29.94029199979728</latitude>
+			<altitude>158.3355576024629</altitude>
+			<heading>-6.59775210934198</heading>
+			<tilt>5.55738575371172</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>45.80343858357993</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.705448557791,29.94023625565601,158.2786921645393</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0174D6AF0B3CC632E8E8">
+		<name>Krzywonski, Margaret Lempar</name>
+		<LookAt>
+			<longitude>-97.70544880373305</longitude>
+			<latitude>29.94023519998001</latitude>
+			<altitude>158.2786921503929</altitude>
+			<heading>-6.597747299201388</heading>
+			<tilt>5.545310933535677</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.29464418249063</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70544805446974,29.94022460352301,158.3964527950824</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="075419EDDF3CC6336C73">
+		<name>Krzywonski, Elliott Frank</name>
+		<LookAt>
+			<longitude>-97.70544880373305</longitude>
+			<latitude>29.94023519998001</latitude>
+			<altitude>158.2786921503929</altitude>
+			<heading>-6.597747299201388</heading>
+			<tilt>5.545310933535677</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.29464418249063</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70544628519156,29.94021323643883,158.4310974664566</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0084264FB03CC633EF03">
+		<name>Krzywonski, Michael Reece</name>
+		<LookAt>
+			<longitude>-97.70544880373305</longitude>
+			<latitude>29.94023519998001</latitude>
+			<altitude>158.2786921503929</altitude>
+			<heading>-6.597747299201388</heading>
+			<tilt>5.545310933535677</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.29464418249063</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70544390994942,29.94019976396219,158.4877784257411</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F2CBFC81D3CC6346947">
+		<name>Krzywonski, Brandon Anthony</name>
+		<LookAt>
+			<longitude>-97.70544880373305</longitude>
+			<latitude>29.94023519998001</latitude>
+			<altitude>158.2786921503929</altitude>
+			<heading>-6.597747299201388</heading>
+			<tilt>5.545310933535677</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.29464418249063</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70544295531505,29.94018711744273,158.529040424807</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B8B5035143CC636052C">
+		<name>Ewald, Robert Lee</name>
+		<LookAt>
+			<longitude>-97.70551757908902</longitude>
+			<latitude>29.9401679231414</latitude>
+			<altitude>158.5105021903336</altitude>
+			<heading>-6.597747643017064</heading>
+			<tilt>5.545310858913412</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.20878856006221</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70551332381392,29.94013115384979,158.7325310810497</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09B7BC10B73CC63676A7">
+		<name>Karstetter, Mabel S.</name>
+		<LookAt>
+			<longitude>-97.70551757908902</longitude>
+			<latitude>29.9401679231414</latitude>
+			<altitude>158.5105021903336</altitude>
+			<heading>-6.597747643017064</heading>
+			<tilt>5.545310858913412</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.20878856006221</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70552494381791,29.94016147148554,158.6807718320814</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D855412323CC6370669">
+		<name>Karstetter, John R.</name>
+		<LookAt>
+			<longitude>-97.70551757908902</longitude>
+			<latitude>29.94016792313876</latitude>
+			<altitude>158.5105021903336</altitude>
+			<heading>-6.597747643020234</heading>
+			<tilt>5.545310858910647</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.2087885600622</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.7055244593534,29.94015455829705,158.7096885001383</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02C5884C4F3CC639B004">
+		<name>Scholwinski, Frank</name>
+		<LookAt>
+			<longitude>-97.70561802457557</longitude>
+			<latitude>29.9402659155941</latitude>
+			<altitude>158.85082221323</altitude>
+			<heading>-6.597758292023833</heading>
+			<tilt>5.545310837173462</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>26.57763440065083</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70561832212053,29.94027883198844,158.8044617675796</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A7B725F4F3CC639FFE4">
+		<name>Scholwinski, Mary</name>
+		<LookAt>
+			<longitude>-97.70561802457557</longitude>
+			<latitude>29.9402659155941</latitude>
+			<altitude>158.85082221323</altitude>
+			<heading>-6.597758292023833</heading>
+			<tilt>5.545310837173462</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>26.57763440065083</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70562044685499,29.94028921633858,159.0070626411019</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0368203AE73CC63A3A0F">
+		<name>Bienek, Gladys</name>
+		<LookAt>
+			<longitude>-97.70561802457557</longitude>
+			<latitude>29.94026591559409</latitude>
+			<altitude>158.8508245728636</altitude>
+			<heading>-6.597758292023853</heading>
+			<tilt>5.545310837173198</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>26.57763440065083</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70561888030268,29.9402843133542,158.9754538377276</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08FE8AFB433CC63AEA30">
+		<name>Krzywonski, Mike J</name>
+		<LookAt>
+			<longitude>-97.70548601309439</longitude>
+			<latitude>29.94031846707444</latitude>
+			<altitude>158.2450555277597</altitude>
+			<heading>-6.597719058474746</heading>
+			<tilt>5.545315466052213</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>31.90429000511358</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70548829289086,29.94027259084915,158.3883624477701</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00A40C9CA13CC63B70CF">
+		<name>Dzierzanowski, Victoria</name>
+		<LookAt>
+			<longitude>-97.70548601309439</longitude>
+			<latitude>29.94031846707444</latitude>
+			<altitude>158.2450555277597</altitude>
+			<heading>-6.597719058474746</heading>
+			<tilt>5.545315466052213</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>31.90429000511358</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70552177994293,29.9402521782212,158.6341779793478</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A02571FE93CC63B9C20">
+		<name>Dzierzanowski, Louis</name>
+		<LookAt>
+			<longitude>-97.70548601309439</longitude>
+			<latitude>29.94031846707444</latitude>
+			<altitude>158.2450555277597</altitude>
+			<heading>-6.597719058474746</heading>
+			<tilt>5.545315466052213</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>31.90429000511358</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70552423508846,29.9402661918478,158.595532999184</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="057AE89D213CC63CD8EC">
+		<name>Dzienowski, Martha Wanda</name>
+		<LookAt>
+			<longitude>-97.70548872605326</longitude>
+			<latitude>29.940320371123</latitude>
+			<altitude>158.2718266495181</altitude>
+			<heading>-6.597716178000959</heading>
+			<tilt>5.544912120693766</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.08121615598612</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70549300295279,29.94030481608422,158.3189029935517</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CD6A274CE3CC63D2E97">
+		<name>Dzienowski, John Henry</name>
+		<LookAt>
+			<longitude>-97.70548872605326</longitude>
+			<latitude>29.940320371123</latitude>
+			<altitude>158.2718266495181</altitude>
+			<heading>-6.597716178000959</heading>
+			<tilt>5.544912120693766</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.08121615598612</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70549246884964,29.94030024198175,158.292871936615</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="076B63C64F3CC63DC948">
+		<name>Krzywonski, Frank C</name>
+		<LookAt>
+			<longitude>-97.70548872605326</longitude>
+			<latitude>29.940320371123</latitude>
+			<altitude>158.2718266495181</altitude>
+			<heading>-6.597716178000959</heading>
+			<tilt>5.544912120693766</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.08121615598612</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70549318199922,29.94032468028745,158.2691508321699</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0004457D2D3CC63EABB0">
+		<name>Krzywonski, Elliott Richard</name>
+		<LookAt>
+			<longitude>-97.70550930302639</longitude>
+			<latitude>29.94035885700501</latitude>
+			<altitude>158.2005491019098</altitude>
+			<heading>-6.597793164431837</heading>
+			<tilt>5.147853771768694</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.40371217067786</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70549459983681,29.94033472144875,158.2692427998769</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0155BD9F6A3CC641913C">
+		<name>Beran, Fred P.</name>
+		<LookAt>
+			<longitude>-97.70555132518062</longitude>
+			<latitude>29.94046714898463</latitude>
+			<altitude>157.7925224392343</altitude>
+			<heading>-6.597774169278652</heading>
+			<tilt>5.147853683991345</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.22862279071433</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70556261160996,29.94048492326997,157.6155457768425</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D6A0188F73CC641E484">
+		<name>Beran, Kathryn S.</name>
+		<LookAt>
+			<longitude>-97.70555132518062</longitude>
+			<latitude>29.94046714898463</latitude>
+			<altitude>157.7925224392343</altitude>
+			<heading>-6.597774169278652</heading>
+			<tilt>5.147853683991345</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.22862279071433</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70554988230866,29.94048633567175,157.527842235992</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="017DE7F6C03CC64246F9">
+		<name>Beran, Tony Sylvester</name>
+		<LookAt>
+			<longitude>-97.70555132518062</longitude>
+			<latitude>29.94046714898463</latitude>
+			<altitude>157.7925224392343</altitude>
+			<heading>-6.597774169278652</heading>
+			<tilt>5.147853683991345</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.22862279071433</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70555884120759,29.94047557069466,157.7580105057339</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0869F4EE833CC64294BC">
+		<name>Beran, Nettie Poldrack</name>
+		<LookAt>
+			<longitude>-97.70555132518062</longitude>
+			<latitude>29.94046714898463</latitude>
+			<altitude>157.7925224392343</altitude>
+			<heading>-6.597774169278652</heading>
+			<tilt>5.147853683991345</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.22862279071433</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70555779145491,29.94046858711249,157.822655386618</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0506135F5E3CC643A594">
+		<name>Reed, Tracey Lorene</name>
+		<LookAt>
+			<longitude>-97.70561054584432</longitude>
+			<latitude>29.94046340528281</latitude>
+			<altitude>157.9202700758076</altitude>
+			<heading>-6.59780717710455</heading>
+			<tilt>5.124732147696496</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.17412935741959</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70561241240564,29.94046925995117,157.9920314501439</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0634B7BB4E3CC643F104">
+		<name>Reed, Joe Walter</name>
+		<LookAt>
+			<longitude>-97.70561054584432</longitude>
+			<latitude>29.94046340528281</latitude>
+			<altitude>157.9202700758076</altitude>
+			<heading>-6.59780717710455</heading>
+			<tilt>5.124732147696496</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.17412935741959</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70561171739068,29.94046220865269,158.0012600079964</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B433CAB9E3CC644FA4C">
+		<name>Walenta, Robert J</name>
+		<LookAt>
+			<longitude>-97.70561054584432</longitude>
+			<latitude>29.94046340528281</latitude>
+			<altitude>157.9202700758076</altitude>
+			<heading>-6.59780717710455</heading>
+			<tilt>5.124732147696496</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.17412935741959</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70555655907324,29.94045642375849,157.7843666403846</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04ADDB2AE23CC645806C">
+		<name>Walenta Lewis, Laverne E.</name>
+		<LookAt>
+			<longitude>-97.70561054584432</longitude>
+			<latitude>29.94046340528281</latitude>
+			<altitude>157.9202700758076</altitude>
+			<heading>-6.59780717710455</heading>
+			<tilt>5.124732147696496</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.17412935741959</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70555396230836,29.94044597168284,157.9714576370651</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B9CADF33B3CC6478918">
+		<name>Dzierzanowski, Joseph</name>
+		<LookAt>
+			<longitude>-97.70553312998975</longitude>
+			<latitude>29.9402935434891</latitude>
+			<altitude>158.387477085826</altitude>
+			<heading>-6.597738809325895</heading>
+			<tilt>5.012497516266211</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.19038554617055</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70553055511294,29.94029177442967,158.3782990818487</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E5FE966D63CC64936F0">
+		<name>Dzierzanowski, Simon</name>
+		<LookAt>
+			<longitude>-97.70554797316072</longitude>
+			<latitude>29.94030711092507</latitude>
+			<altitude>158.3836953515312</altitude>
+			<heading>-6.597751691032563</heading>
+			<tilt>5.01249747555485</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.12388901360737</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70553267258664,29.94030821798806,158.4658720110418</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="088E25CABE3CC64CAE53">
+		<name>Wilhelm, James E.</name>
+		<LookAt>
+			<longitude>-97.70557676495368</longitude>
+			<latitude>29.94024544870849</latitude>
+			<altitude>163.1196811662293</altitude>
+			<heading>-6.597667862009144</heading>
+			<tilt>4.959961393365787</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.33553526216111</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70560155971098,29.9402256705649,161.6916172991376</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="067A9CFFD33CC64E0BC0">
+		<name>Wilhelm, Terrie L.</name>
+		<LookAt>
+			<longitude>-97.70559386752078</longitude>
+			<latitude>29.94025165956548</latitude>
+			<altitude>162.344325883287</altitude>
+			<heading>-6.597656612334845</heading>
+			<tilt>4.95838946122945</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.06058809255592</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70560001833032,29.94021453244697,158.9080092092224</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BF6EE81E13CC64EA9D8">
+		<name>Dzenowski, Walter Andrew</name>
+		<LookAt>
+			<longitude>-97.70558600091833</longitude>
+			<latitude>29.94020027379819</latitude>
+			<altitude>158.9741088027622</altitude>
+			<heading>-6.597654409305379</heading>
+			<tilt>4.958396093025101</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>33.59274045487382</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70559411360389,29.94017568092405,158.9883343542747</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E9CCDBF1F3CC651C139">
+		<name>Bonkowski, Martin</name>
+		<LookAt>
+			<longitude>-97.70563128478601</longitude>
+			<latitude>29.94031941401393</latitude>
+			<altitude>158.6650384535244</altitude>
+			<heading>-6.597657734396262</heading>
+			<tilt>4.95839160799662</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>27.83753972984869</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70562824274158,29.94031877403235,158.6402032116108</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B4245F4CF3CC652AEA7">
+		<name>Zaleski, John B</name>
+		<LookAt>
+			<longitude>-97.70565313008339</longitude>
+			<latitude>29.94033184051619</latitude>
+			<altitude>158.5396860897169</altitude>
+			<heading>-6.597696932626012</heading>
+			<tilt>4.958391015480433</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>27.07996830597495</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70567021230076,29.94031535385268,158.5667324850778</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06A14A1F3A3CC653EC2C">
+		<name>Krzywosinski, Stephanie</name>
+		<LookAt>
+			<longitude>-97.70572893099556</longitude>
+			<latitude>29.94035241500561</latitude>
+			<altitude>158.6477668895683</altitude>
+			<heading>-6.597807653046797</heading>
+			<tilt>4.788683512460221</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.06371417126957</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70567224979905,29.94035103489926,158.5521845351953</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F4F2EF9923CC65535B0">
+		<name>Little, Veronica Rose</name>
+		<LookAt>
+			<longitude>-97.7056802186805</longitude>
+			<latitude>29.94037315039332</latitude>
+			<altitude>158.8152796517855</altitude>
+			<heading>-6.597783343012435</heading>
+			<tilt>4.746444871256997</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.14988558848927</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70567623871186,29.94037680025322,158.5853654033832</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F508F8D9E3CC6558CD8">
+		<name>Little, Derril Beryl</name>
+		<LookAt>
+			<longitude>-97.70568021865294</longitude>
+			<latitude>29.94037315041973</latitude>
+			<altitude>158.8152820100043</altitude>
+			<heading>-6.59778334306729</heading>
+			<tilt>4.746444871106553</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.14968278449487</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70567637285552,29.94036887252402,158.608375679545</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D91FFBF273CC6570721">
+		<name>Little, Howard Derril</name>
+		<LookAt>
+			<longitude>-97.70568021865294</longitude>
+			<latitude>29.94037315041973</latitude>
+			<altitude>158.8152820100043</altitude>
+			<heading>-6.59778334306729</heading>
+			<tilt>4.746444871106553</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.14968278449487</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70567843516457,29.94039040410332,158.4550714520348</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01F552BC4F3CC6577CF7">
+		<name>Bonkowski, Pete J.</name>
+		<LookAt>
+			<longitude>-97.70568021865294</longitude>
+			<latitude>29.94037315041973</latitude>
+			<altitude>158.8152820100043</altitude>
+			<heading>-6.59778334306729</heading>
+			<tilt>4.746444871106553</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.14968278449487</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70563544909594,29.94037781606248,158.5788481804562</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0ED97290AF3CC6583120">
+		<name>Krzywosinski, Martin???</name>
+		<LookAt>
+			<longitude>-97.70568021865294</longitude>
+			<latitude>29.94037315041973</latitude>
+			<altitude>158.8152820100043</altitude>
+			<heading>-6.59778334306729</heading>
+			<tilt>4.746444871106553</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.14968278449487</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.705713456965,29.94034785320951,158.6775369145639</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D66C0D1303CC658BB24">
+		<name>Cross</name>
+		<LookAt>
+			<longitude>-97.70568021865294</longitude>
+			<latitude>29.94037315041973</latitude>
+			<altitude>158.8152820100043</altitude>
+			<heading>-6.59778334306729</heading>
+			<tilt>4.746444871106553</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.14968278449487</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70571706551696,29.94036188650797,158.5972580016359</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="053964E8813CC659BB59">
+		<name>Bostelman, DeForest G.</name>
+		<LookAt>
+			<longitude>-97.70566273841139</longitude>
+			<latitude>29.94038155778855</latitude>
+			<altitude>158.3136565945497</altitude>
+			<heading>-6.597794564402858</heading>
+			<tilt>4.746433615911474</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.20411537659129</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70563685556922,29.94039725601813,158.2327742322251</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00DB4B709D3CC65A888F">
+		<name>Bostelman, Isabel T.</name>
+		<LookAt>
+			<longitude>-97.70569374617291</longitude>
+			<latitude>29.94039745355512</latitude>
+			<altitude>158.408678281323</altitude>
+			<heading>-6.597800554907983</heading>
+			<tilt>4.746433521403235</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.22212147409391</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70563924449991,29.94041236424875,158.1841326009584</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0105B285393CC65B30AC">
+		<name>Bienek, JoAnn Elizabeth (Renz)</name>
+		<LookAt>
+			<longitude>-97.70570200339814</longitude>
+			<latitude>29.9404315086786</latitude>
+			<altitude>158.1437727613717</altitude>
+			<heading>-6.59780467614868</heading>
+			<tilt>4.74643370687977</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.48793956675127</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70564383439051,29.94043547010396,158.1909648038392</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="016C45F3D03CC65BCCA8">
+		<name>Bienek, David Eugene, Sr.</name>
+		<LookAt>
+			<longitude>-97.70570200339814</longitude>
+			<latitude>29.9404315086786</latitude>
+			<altitude>158.1437727613717</altitude>
+			<heading>-6.59780467614868</heading>
+			<tilt>4.74643370687977</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.48793956675127</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70564292839853,29.94042806253566,158.303735345621</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0078CDA1053CC65C3553">
+		<name>Bienek, Maxine L. (Jordan)</name>
+		<LookAt>
+			<longitude>-97.70570200339814</longitude>
+			<latitude>29.9404315086786</latitude>
+			<altitude>158.1437727613717</altitude>
+			<heading>-6.59780467614868</heading>
+			<tilt>4.74643370687977</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.48793956675127</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70564754397925,29.94045857920484,157.9696316442786</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07C7379F4C3CC65C9E77">
+		<name>Bienek, Felix D.</name>
+		<LookAt>
+			<longitude>-97.70570200339814</longitude>
+			<latitude>29.9404315086786</latitude>
+			<altitude>158.1437727613717</altitude>
+			<heading>-6.59780467614868</heading>
+			<tilt>4.74643370687977</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.48793956675127</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70564631310862,29.94044994398499,158.082583299251</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="017C5713C33CC65E28C4">
+		<name>Zaleski, Nellie</name>
+		<LookAt>
+			<longitude>-97.70568305211914</longitude>
+			<latitude>29.94033670661281</latitude>
+			<altitude>158.6979426476079</altitude>
+			<heading>-6.597833183131432</heading>
+			<tilt>4.226490656697879</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.08845046418628</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70567100668713,29.94032813184499,158.6212452523722</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0568F6E3D53CC65F1603">
+		<name>Zaloski, John Jr.</name>
+		<LookAt>
+			<longitude>-97.70569744971894</longitude>
+			<latitude>29.94028187787494</latitude>
+			<altitude>158.8968423722815</altitude>
+			<heading>-6.597836830057583</heading>
+			<tilt>4.156831545033361</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.09741150353875</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70566842660466,29.94030208453682,158.6323783159973</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DFEA1D6C13CC6667EC4">
+		<name>Cross</name>
+		<LookAt>
+			<longitude>-97.70586992138739</longitude>
+			<latitude>29.94024672511481</latitude>
+			<altitude>159.3422745228284</altitude>
+			<heading>-6.597905356230714</heading>
+			<tilt>4.144044820279983</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.13701912364468</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70587073367548,29.94023729871344,159.4377208856362</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0552402EA93CC666A298">
+		<name>Cross</name>
+		<LookAt>
+			<longitude>-97.70586992138739</longitude>
+			<latitude>29.94024672511481</latitude>
+			<altitude>159.3422745228284</altitude>
+			<heading>-6.597905356230833</heading>
+			<tilt>4.144044851497965</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.13701912364468</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70587272510446,29.94024848763311,159.5191208876149</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="017E5942E43CC67B6636">
+		<name>Lempa, Lucille</name>
+		<LookAt>
+			<longitude>-97.70547722504428</longitude>
+			<latitude>29.94035313048144</latitude>
+			<altitude>158.1462938331608</altitude>
+			<heading>-6.597728021210331</heading>
+			<tilt>3.712842454875936</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.09331486285191</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.7054652495646,29.94035753666269,158.0128067091545</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C47BD4E803CC67BBBB0">
+		<name>Lempa, Ben</name>
+		<LookAt>
+			<longitude>-97.70547722504428</longitude>
+			<latitude>29.94035313048144</latitude>
+			<altitude>158.1462938331608</altitude>
+			<heading>-6.597728021210331</heading>
+			<tilt>3.712842454875936</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.09331486285191</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70546443365924,29.94034975085279,158.0703106500474</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B5F4E5F2E3CC67D32D4">
+		<name>Lempar, Cynthia Marie</name>
+		<LookAt>
+			<longitude>-97.70548084741192</longitude>
+			<latitude>29.94039591720204</latitude>
+			<altitude>157.9368352237687</altitude>
+			<heading>-6.597729829160125</heading>
+			<tilt>3.655508656720186</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.4419146488226</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70547745173904,29.94041069255778,157.7946569201531</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01CA58DD343CC67D9739">
+		<name>Lempar, James William</name>
+		<LookAt>
+			<longitude>-97.70548084741192</longitude>
+			<latitude>29.94039591720204</latitude>
+			<altitude>157.9368352237687</altitude>
+			<heading>-6.597729829160125</heading>
+			<tilt>3.655508656720186</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.4419146488226</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.7054768336813,29.94040339267432,157.8220078001914</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0541B8CFEA3CC67ECFAC">
+		<name>Harris, Mildred</name>
+		<LookAt>
+			<longitude>-97.70549229374515</longitude>
+			<latitude>29.94043954062762</latitude>
+			<altitude>157.6542491890583</altitude>
+			<heading>-6.597732822106901</heading>
+			<tilt>3.655511201814168</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>29.88090586140516</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70551879673583,29.94044865826952,157.5523610295468</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AC0750D433CC67F7E60">
+		<name>Harris, Richard M</name>
+		<LookAt>
+			<longitude>-97.70549229374515</longitude>
+			<latitude>29.94043954062762</latitude>
+			<altitude>157.6542491890583</altitude>
+			<heading>-6.59773282210697</heading>
+			<tilt>3.655511201814168</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>29.88090586140516</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70551904457707,29.94045634653929,157.5512314455325</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0495F35D193CC68175DE">
+		<name>Krzywonski, Theodore</name>
+		<LookAt>
+			<longitude>-97.70547404135826</longitude>
+			<latitude>29.94025143871368</latitude>
+			<altitude>158.2832155961601</altitude>
+			<heading>-6.597723712286121</heading>
+			<tilt>3.655510840264497</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>29.25065768241438</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.7054876559432,29.94025609634857,158.563238463389</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E2E3A552A3CC681DD19">
+		<name>Krzywosinski, Mary</name>
+		<LookAt>
+			<longitude>-97.70547404135826</longitude>
+			<latitude>29.94025143871368</latitude>
+			<altitude>158.2832155961601</altitude>
+			<heading>-6.597723712286121</heading>
+			<tilt>3.655510840264497</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>29.25065768241438</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70548667329582,29.94024223423958,158.6622450590893</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FFEFD8EE53CC682753C">
+		<name>Mohrmann, Jean &quot;Cookie&quot;</name>
+		<LookAt>
+			<longitude>-97.70547916571854</longitude>
+			<latitude>29.94029165442053</latitude>
+			<altitude>158.2501590090779</altitude>
+			<heading>-6.597726269787904</heading>
+			<tilt>3.655510859203031</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>29.28378136909942</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.705491636842,29.94028716654406,158.3251920322774</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07BA8411DC3CC689369E">
+		<name>Walenta, Carla S.</name>
+		<LookAt>
+			<longitude>-97.70558398005988</longitude>
+			<latitude>29.94043901428645</latitude>
+			<altitude>157.9370463006269</altitude>
+			<heading>-6.597819967029611</heading>
+			<tilt>3.630972905511143</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.09065233612547</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70555131611138,29.94043361795562,158.0197883017355</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0833825ABB3CC689B10B">
+		<name>Wisniewski, Pearl Agnes</name>
+		<LookAt>
+			<longitude>-97.705534273079</longitude>
+			<latitude>29.94042219871084</latitude>
+			<altitude>158.3336825892801</altitude>
+			<heading>-6.597795158258192</heading>
+			<tilt>3.575944565885366</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.03238674853492</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70554867501421,29.94041633027169,158.0436630879241</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BD08965DE3CC68A4B77">
+		<name>Wisniewski, Steve</name>
+		<LookAt>
+			<longitude>-97.70551519776122</longitude>
+			<latitude>29.94039890114302</latitude>
+			<altitude>158.070935548343</altitude>
+			<heading>-6.597785637826965</heading>
+			<tilt>3.575944713489647</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.29564661366294</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70554719752521,29.94040139457453,158.1512723472688</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="061DA43D023CC68ABDE8">
+		<name>Viswieski, John</name>
+		<LookAt>
+			<longitude>-97.70551519776122</longitude>
+			<latitude>29.94039890114302</latitude>
+			<altitude>158.070935548343</altitude>
+			<heading>-6.597785637826965</heading>
+			<tilt>3.575944713489647</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.29564661366294</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70554639453677,29.94038913716811,158.1347546027608</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05DF9A70FF3CC692F9D4">
+		<name>Unreadable</name>
+		<LookAt>
+			<longitude>-97.70551258393306</longitude>
+			<latitude>29.94036211606257</latitude>
+			<altitude>158.1463259612406</altitude>
+			<heading>-6.597785879576239</heading>
+			<tilt>3.533154891554915</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.35441631403955</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70554530665677,29.94037540855086,158.3301426099088</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CE64807713CC6944520">
+		<name>Dzierzanowski, Mary</name>
+		<LookAt>
+			<longitude>-97.70551258393306</longitude>
+			<latitude>29.94036211606257</latitude>
+			<altitude>158.1463259612406</altitude>
+			<heading>-6.597785879576239</heading>
+			<tilt>3.533154891554915</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.35441631403955</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70553964785063,29.94035730868122,158.2536993109891</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="072CE228003CC694DB0B">
+		<name>Unreadable</name>
+		<LookAt>
+			<longitude>-97.70551258393306</longitude>
+			<latitude>29.94036211606257</latitude>
+			<altitude>158.1463259612406</altitude>
+			<heading>-6.597785879576239</heading>
+			<tilt>3.533154891554915</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.35441631403955</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70553698989649,29.94033974212585,158.3421281095365</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F4E1556243CC69558B7">
+		<name>Cross (Broken Headstone)</name>
+		<LookAt>
+			<longitude>-97.70551258393306</longitude>
+			<latitude>29.94036211606257</latitude>
+			<altitude>158.1463259612406</altitude>
+			<heading>-6.597785879576239</heading>
+			<tilt>3.533154891554915</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.35441631403955</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70553581378005,29.94032338366542,158.5097402352425</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CFE89BB763CC6966C38">
+		<name>Dzenowski, Veronica</name>
+		<LookAt>
+			<longitude>-97.70549661624614</longitude>
+			<latitude>29.94030154583315</latitude>
+			<altitude>158.4127952618245</altitude>
+			<heading>-6.597770261630519</heading>
+			<tilt>3.533154683929465</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.98995435850702</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70553065386767,29.940278492794,158.2943090694351</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E48B3B46E3CC699F8A7">
+		<name>Dzierzanowski, Dorothy</name>
+		<LookAt>
+			<longitude>-97.70549814505253</longitude>
+			<latitude>29.94027821404184</latitude>
+			<altitude>158.4200933225694</altitude>
+			<heading>-6.597774597837101</heading>
+			<tilt>3.533166724065776</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>46.71530618359157</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70552144124528,29.94024217242395,158.6051289794211</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E13E2DAE03CC69C8118">
+		<name>Reese, Timothy William</name>
+		<LookAt>
+			<longitude>-97.70551191530079</longitude>
+			<latitude>29.94036129181235</latitude>
+			<altitude>158.1607736846987</altitude>
+			<heading>-6.597753306488682</heading>
+			<tilt>3.259186312170182</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.30397026903302</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70550176735694,29.94036219974027,158.0891331340675</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C23F2B40E3CC69CCC79">
+		<name>Reese, Claudette Jo Hejl</name>
+		<LookAt>
+			<longitude>-97.70551191530079</longitude>
+			<latitude>29.94036129181235</latitude>
+			<altitude>158.1607736846987</altitude>
+			<heading>-6.597753306488682</heading>
+			<tilt>3.259186312170182</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.30397026903302</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70550155381225,29.94035504348953,158.2247871358555</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E3A532A053CC69DBDDC">
+		<name>Lempa, Joe</name>
+		<LookAt>
+			<longitude>-97.70551191530079</longitude>
+			<latitude>29.94036129181235</latitude>
+			<altitude>158.1607736846987</altitude>
+			<heading>-6.597753306488682</heading>
+			<tilt>3.259186312170182</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.30397026903302</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70550744990565,29.94037280036381,158.0520997836038</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0262A1D9423CC69E2FA8">
+		<name>Lempa, Adela</name>
+		<LookAt>
+			<longitude>-97.70551191530079</longitude>
+			<latitude>29.94036129181235</latitude>
+			<altitude>158.1607736846987</altitude>
+			<heading>-6.597753306488682</heading>
+			<tilt>3.259186312170182</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.30397026903302</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70550769621896,29.94038008764675,158.1199026350349</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0140A268493CC69ECEA4">
+		<name>Reese, Bobby Dale</name>
+		<LookAt>
+			<longitude>-97.70551408259482</longitude>
+			<latitude>29.94042110059979</latitude>
+			<altitude>157.8234276615691</altitude>
+			<heading>-6.597754388182474</heading>
+			<tilt>3.257260263248044</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.64640771077394</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70551262227387,29.94040763470268,157.9813910392382</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="089F3A9F413CC69F0936">
+		<name>Reese, Loraine Lempa</name>
+		<LookAt>
+			<longitude>-97.70551408259482</longitude>
+			<latitude>29.94042110059979</latitude>
+			<altitude>157.8234276615691</altitude>
+			<heading>-6.597754388182474</heading>
+			<tilt>3.257260263248044</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.64640771077394</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70551196454889,29.9403976997558,158.0638045490861</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BCA09E5703CC69F89E4">
+		<name>Colby, Rose Lempa</name>
+		<LookAt>
+			<longitude>-97.70551573343377</longitude>
+			<latitude>29.94043775206623</latitude>
+			<altitude>157.8591859031378</altitude>
+			<heading>-6.597755212193133</heading>
+			<tilt>3.25726024487404</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.61059252536325</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70551778951136,29.94043468618504,157.7946979760789</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C656D0EDC3CC69FCD43">
+		<name>Colby, David George</name>
+		<LookAt>
+			<longitude>-97.70551573343377</longitude>
+			<latitude>29.94043775206623</latitude>
+			<altitude>157.8591859031378</altitude>
+			<heading>-6.597755212193133</heading>
+			<tilt>3.25726024487404</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.61059252536325</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70551686368599,29.94042570539376,157.891594213445</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="054E0510663CC6AA9E1E">
+		<name>Smith, Paulette (Fogle)</name>
+		<LookAt>
+			<longitude>-97.70559050869331</longitude>
+			<latitude>29.9404581271793</latitude>
+			<altitude>157.8251043070949</altitude>
+			<heading>-6.597845970275253</heading>
+			<tilt>2.913638872845055</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>29.11142115146049</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70560694588973,29.94044410340235,157.9696205845574</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D7B6B56F23CC6AB218B">
+		<name>Fogle, Constance (Bienek)</name>
+		<LookAt>
+			<longitude>-97.70559050869331</longitude>
+			<latitude>29.9404581271793</latitude>
+			<altitude>157.8251043070949</altitude>
+			<heading>-6.597845970275253</heading>
+			<tilt>2.913638872845055</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>29.11142115146049</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70560372921034,29.94043184865832,157.980294740486</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C478C623C3CC6AB92A6">
+		<name>Fogle, J. Lester</name>
+		<LookAt>
+			<longitude>-97.70559050869331</longitude>
+			<latitude>29.9404581271793</latitude>
+			<altitude>157.8251043070949</altitude>
+			<heading>-6.597845970275253</heading>
+			<tilt>2.913638872845055</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>29.11142115146049</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70560304857304,29.94042363338043,158.0377244901436</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06ACA302DA3CC6AC7197">
+		<name>Bienek, Frances C.</name>
+		<LookAt>
+			<longitude>-97.70558548097748</longitude>
+			<latitude>29.94040075013368</latitude>
+			<altitude>158.1575935409526</altitude>
+			<heading>-6.597843460824007</heading>
+			<tilt>2.913638720548005</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>28.77849811425677</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70559719698379,29.94040398498872,158.1325954150078</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0519ECC60A3CC6ACB724">
+		<name>Bienek, Vincent A.</name>
+		<LookAt>
+			<longitude>-97.70558548097748</longitude>
+			<latitude>29.94040075013368</latitude>
+			<altitude>158.1575935409526</altitude>
+			<heading>-6.597843460824007</heading>
+			<tilt>2.913638720548005</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>28.77849811425677</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.7055964175125,29.9403959542176,158.1983141187102</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0816838C303CC6AD9534">
+		<name>Bienek, Josephine Frances</name>
+		<LookAt>
+			<longitude>-97.70558548097748</longitude>
+			<latitude>29.94040075013368</latitude>
+			<altitude>158.1575911841484</altitude>
+			<heading>-6.597843460824</heading>
+			<tilt>2.91363872054838</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>28.77849811425677</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70559242702386,29.94037286343945,158.3228386585679</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07DBAB35BE3CC6AE7AFF">
+		<name>Bienek, Edmund</name>
+		<LookAt>
+			<longitude>-97.70557285119993</longitude>
+			<latitude>29.94035088113691</latitude>
+			<altitude>158.3558942879332</altitude>
+			<heading>-6.597837157241402</heading>
+			<tilt>2.913638629711366</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>28.57994141494146</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70558733162083,29.94035639946895,158.4011719602848</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05564BDBA33CC6AF73CE">
+		<name>Bonkowski, Elenora</name>
+		<LookAt>
+			<longitude>-97.70557285119993</longitude>
+			<latitude>29.94035088113691</latitude>
+			<altitude>158.3558942879332</altitude>
+			<heading>-6.597837157241402</heading>
+			<tilt>2.913638629711366</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>28.57994141494146</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70558417294376,29.94034094797498,158.4332313956625</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EE66E15A53CC6AFF4B3">
+		<name>Bonkowski, Theodora</name>
+		<LookAt>
+			<longitude>-97.70557285119993</longitude>
+			<latitude>29.94035088113691</latitude>
+			<altitude>158.3558942879332</altitude>
+			<heading>-6.597837157241402</heading>
+			<tilt>2.913638629711366</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>28.57994141494146</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70558201837439,29.94032649089966,158.4332358900005</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0459598BA93CC6B0A808">
+		<name>Dzieranowski, Paul</name>
+		<LookAt>
+			<longitude>-97.70556285668134</longitude>
+			<latitude>29.94028619883438</latitude>
+			<altitude>158.4992000281268</altitude>
+			<heading>-6.597832169098746</heading>
+			<tilt>2.913638564056775</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>28.43644889730513</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70557478739406,29.9402941816286,158.5053403024269</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00FFA7D1E63CC6B11EFC">
+		<name>Dzierzanowski, Walter</name>
+		<LookAt>
+			<longitude>-97.70556285668134</longitude>
+			<latitude>29.94028619883438</latitude>
+			<altitude>158.4992000281268</altitude>
+			<heading>-6.597832169098746</heading>
+			<tilt>2.913638564056775</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>28.43644889730513</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70557243336465,29.94028324817314,158.5687588331023</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EA91F9A0E3CC6B1CE27">
+		<name>Dzierzanowski, Stella</name>
+		<LookAt>
+			<longitude>-97.70556285668134</longitude>
+			<latitude>29.94028619883438</latitude>
+			<altitude>158.4992000281268</altitude>
+			<heading>-6.597832169098746</heading>
+			<tilt>2.913638564056775</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>28.43644889730513</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70556785031589,29.94026918552369,158.7153452561037</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="064112D6163CC6B35C33">
+		<name>Dzierzanowski, Edward</name>
+		<LookAt>
+			<longitude>-97.7055977535944</longitude>
+			<latitude>29.94027961738584</latitude>
+			<altitude>0</altitude>
+			<heading>-6.597916251026563</heading>
+			<tilt>2.413063480938902</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.02218817520249</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70556443179282,29.94025938842957,-7.073241992117119e-10</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="077FF1A22B3CC6B49724">
+		<name>Dzierzanowski, Annie</name>
+		<LookAt>
+			<longitude>-97.7055977535944</longitude>
+			<latitude>29.94027961738584</latitude>
+			<altitude>0</altitude>
+			<heading>-6.597916251026563</heading>
+			<tilt>2.413063480938902</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.02218817520249</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70556055929138,29.94024750250335,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05E8DD896A3CC6B5319F">
+		<name>Dzierzanowski, Steve</name>
+		<LookAt>
+			<longitude>-97.70559713824838</longitude>
+			<latitude>29.94028124069968</latitude>
+			<altitude>0</altitude>
+			<heading>-6.597915943913389</heading>
+			<tilt>2.413063531997499</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.02218820619267</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70556049038439,29.94024369713656,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03BCA5FF423CC6B7A417">
+		<name>Dzenowski, Felix</name>
+		<LookAt>
+			<longitude>-97.7055606175401</longitude>
+			<latitude>29.94025094308938</latitude>
+			<altitude>0</altitude>
+			<heading>-6.597802064742694</heading>
+			<tilt>1.323123272797331</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.00666747645872</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70555511835174,29.9402324553966,-7.073241992117119e-10</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0268215B6C3CC6B8846C">
+		<name>Dzenowski, Lois Flores</name>
+		<LookAt>
+			<longitude>-97.7055606175401</longitude>
+			<latitude>29.94025094308938</latitude>
+			<altitude>-1.414648398423424e-09</altitude>
+			<heading>-6.59780206474265</heading>
+			<tilt>1.323123272796229</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.00666747787952</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70554823964193,29.94021846176043,-7.073241992117119e-10</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D08FCB3753CC6B8DACC">
+		<name>Dzenowski, Chester Steve</name>
+		<LookAt>
+			<longitude>-97.7055606175401</longitude>
+			<latitude>29.94025094308938</latitude>
+			<altitude>-1.414648398423424e-09</altitude>
+			<heading>-6.59780206474265</heading>
+			<tilt>1.323123272796229</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.00666747787952</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70554542682873,29.94021350298565,1.414648398423424e-09</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0199B7EB873CC6BA0863">
+		<name>Dzierzanowski, Tecla</name>
+		<LookAt>
+			<longitude>-97.70556698250529</longitude>
+			<latitude>29.94023046944585</latitude>
+			<altitude>-7.073241992117119e-10</altitude>
+			<heading>-6.597794755294849</heading>
+			<tilt>1.084903869825941</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.00448241319906</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70553883877848,29.94019636236742,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="061BE5B3CD3CC6BA7F8B">
+		<name>Dzierzanowski, Lucia</name>
+		<LookAt>
+			<longitude>-97.70556698250529</longitude>
+			<latitude>29.94023046944585</latitude>
+			<altitude>-7.073241992117119e-10</altitude>
+			<heading>-6.597794755294849</heading>
+			<tilt>1.084903869825941</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.00448241319906</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70553398843137,29.94018179033283,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A792BEBCB3CC6CC1610">
+		<name>Bonkowski, Genevieve A.</name>
+		<LookAt>
+			<longitude>-97.70560861530082</longitude>
+			<latitude>29.94039315856552</latitude>
+			<altitude>158.2351865373575</altitude>
+			<heading>353.4021519101913</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.00004240862837</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70563120745292,29.94036151719478,158.5192333012232</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="018468BED23CC6CCFF80">
+		<name>Bonkowski, Rosa A.</name>
+		<LookAt>
+			<longitude>-97.7056194051314</longitude>
+			<latitude>29.94035102677447</latitude>
+			<altitude>158.4129194141972</altitude>
+			<heading>353.4021446227909</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.99857932266877</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70562599420359,29.94034244385888,158.5105008761252</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="095B6130A93CC6CD53EE">
+		<name>Bonkowski, John J.</name>
+		<LookAt>
+			<longitude>-97.7056194051314</longitude>
+			<latitude>29.94035102677447</latitude>
+			<altitude>158.4129194141972</altitude>
+			<heading>353.4021446227909</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>24.99857932266877</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70562594903507,29.94033350578,158.5105020389662</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02F8EDF7893CC6D04AA3">
+		<name>Wilhelm, Perry James</name>
+		<LookAt>
+			<longitude>-97.70561590617724</longitude>
+			<latitude>29.94025187705926</latitude>
+			<altitude>0</altitude>
+			<heading>353.4020902571816</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>34.52143036327257</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70560835970274,29.94026271081048,-7.073241992117119e-10</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EE57279A13CC6D0B933">
+		<name>Wilhelm, Sophie Rose</name>
+		<LookAt>
+			<longitude>-97.70561590617724</longitude>
+			<latitude>29.94025187705926</latitude>
+			<altitude>0</altitude>
+			<heading>353.4020902571816</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>34.52143036327257</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70560724633435,29.94024922044716,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03D89A7AA93CC6D6FE91">
+		<name>Zaleski, Joseph &quot;Joe&quot;</name>
+		<LookAt>
+			<longitude>-97.70569181770288</longitude>
+			<latitude>29.94011539159838</latitude>
+			<altitude>159.3840704540539</altitude>
+			<heading>353.4019905685496</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.00000184782948</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70568314310606,29.94009518340466,159.3580139136411</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="004330D28A3CC6D74FF0">
+		<name>Zaleski, Antola</name>
+		<LookAt>
+			<longitude>-97.70569181770288</longitude>
+			<latitude>29.94011539159838</latitude>
+			<altitude>159.3840704540539</altitude>
+			<heading>353.4019905685496</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.00000184782948</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70568413435959,29.94010482119223,159.366143060515</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="060F29C71D3CC6D94DA9">
+		<name>Unreadable</name>
+		<LookAt>
+			<longitude>-97.70569181770288</longitude>
+			<latitude>29.94011539159838</latitude>
+			<altitude>159.3840704540539</altitude>
+			<heading>353.4019905685497</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.00000184782948</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70568704243138,29.94011443201378,159.3672664823208</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B9CD29CDC3CC6DA9CDB">
+		<name>Zaleski, George E.</name>
+		<LookAt>
+			<longitude>-97.70569181770288</longitude>
+			<latitude>29.94011539159838</latitude>
+			<altitude>159.3840704540539</altitude>
+			<heading>353.4019905685497</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.00000184782948</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70568816176723,29.94012918124671,159.2778820534141</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A0D15DE333CC6DAFD28">
+		<name>Zaleski, Jimmie Gerald</name>
+		<LookAt>
+			<longitude>-97.70569181770288</longitude>
+			<latitude>29.94011539159838</latitude>
+			<altitude>159.3840704540539</altitude>
+			<heading>353.4019905685497</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25.00000184782948</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70568977579788,29.94014062140981,159.2950079326342</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="082F05BE2F3CC6DE5A56">
+		<name>Krzywonski, Alex</name>
+		<LookAt>
+			<longitude>-97.70565637036414</longitude>
+			<latitude>29.94022531756476</latitude>
+			<altitude>158.9741052944342</altitude>
+			<heading>353.4018914173832</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>37.00664728897209</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DCEC9CB743CC59697B7</styleUrl>
+		<Point>
+			<coordinates>-97.70570906309044,29.94020926532845,159.2458979367464</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

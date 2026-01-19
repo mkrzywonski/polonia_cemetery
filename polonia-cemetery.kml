@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Polonia Cemetery Markers</name>
+    <description>Generated from assets/records.js</description>
+    <Placemark>
+      <name>Balandran, Saturnino</name>
+      <description><![CDATA[Name: Balandran, Saturnino
+Photos:
+- 089.jpg]]></description>
+      <Point><coordinates>-97.705803,29.939894,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bieniek, Zofia</name>
+      <description><![CDATA[Name: Bieniek, Zofia
+Photos:
+- 125.jpg]]></description>
+      <Point><coordinates>-97.70585,29.94015,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Dedak, Anna</name>
+      <description><![CDATA[Name: Dedak, Anna
+Photos:
+- 116.jpg]]></description>
+      <Point><coordinates>-97.705842,29.940125,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Dedek, Kate</name>
+      <description><![CDATA[Name: Dedek, Kate
+Photos:
+- 060.jpg]]></description>
+      <Point><coordinates>-97.705881,29.940183,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Foryszewski, Felix</name>
+      <description><![CDATA[Name: Foryszewski, Felix
+Photos:
+- 029.jpg]]></description>
+      <Point><coordinates>-97.705864,29.940139,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Foryszewski, Frances</name>
+      <description><![CDATA[Name: Foryszewski, Frances
+Photos:
+- 029.jpg]]></description>
+      <Point><coordinates>-97.705864,29.940139,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Foryszewski, Joe</name>
+      <description><![CDATA[Name: Foryszewski, Joe
+Photos:
+- 042.jpg]]></description>
+      <Point><coordinates>-97.705903,29.94015,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Foryszewski, John</name>
+      <description><![CDATA[Name: Foryszewski, John
+Photos:
+- 052.jpg]]></description>
+      <Point><coordinates>-97.705911,29.940139,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Foryszewski, Leona E.</name>
+      <description><![CDATA[Name: Foryszewski, Leona E.
+Photos:
+No photos listed.]]></description>
+      <Point><coordinates>-97.705925,29.940156,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Foryszpwski, Ludwika</name>
+      <description><![CDATA[Name: Foryszpwski, Ludwika
+Photos:
+- 068.jpg]]></description>
+      <Point><coordinates>-97.705881,29.940111,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Grabarkewitz, Anna</name>
+      <description><![CDATA[Name: Grabarkewitz, Anna
+Photos:
+- 005.jpg]]></description>
+      <Point><coordinates>-97.705856,29.940353,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Grabarkewitz, Connie T.</name>
+      <description><![CDATA[Name: Grabarkewitz, Connie T.
+Photos:
+- 015.jpg]]></description>
+      <Point><coordinates>-97.705825,29.940336,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Grabarkewitz, Irene B.</name>
+      <description><![CDATA[Name: Grabarkewitz, Irene B.
+Photos:
+- 099.jpg]]></description>
+      <Point><coordinates>-97.705833,29.940322,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Grabarkewitz, John</name>
+      <description><![CDATA[Name: Grabarkewitz, John
+Photos:
+- 005.jpg]]></description>
+      <Point><coordinates>-97.705856,29.940353,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Grabarkewitz, Leopold</name>
+      <description><![CDATA[Name: Grabarkewitz, Leopold
+Photos:
+- 064.jpg]]></description>
+      <Point><coordinates>-97.705881,29.940308,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Grabarkewitz, Regina</name>
+      <description><![CDATA[Name: Grabarkewitz, Regina
+Photos:
+- 085.jpg]]></description>
+      <Point><coordinates>-97.705864,29.940303,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Grabarkewitz, Steve J.</name>
+      <description><![CDATA[Name: Grabarkewitz, Steve J.
+Photos:
+- 099.jpg]]></description>
+      <Point><coordinates>-97.705833,29.940322,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Grabarkewitz, Theodore R.</name>
+      <description><![CDATA[Name: Grabarkewitz, Theodore R.
+Photos:
+- 015.jpg]]></description>
+      <Point><coordinates>-97.705825,29.940336,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Holmes, Josephine S.</name>
+      <description><![CDATA[Name: Holmes, Josephine S.
+Photos:
+- 058.jpg]]></description>
+      <Point><coordinates>-97.705881,29.940261,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Kalinowski, Baby Girl</name>
+      <description><![CDATA[Name: Kalinowski, Baby Girl
+Photos:
+- 007.jpg]]></description>
+      <Point><coordinates>-97.705825,29.940236,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Kalinowski, Bill</name>
+      <description><![CDATA[Name: Kalinowski, Bill
+Photos:
+- 008.jpg]]></description>
+      <Point><coordinates>-97.705825,29.940231,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Kalinowski, Cecelia T.</name>
+      <description><![CDATA[Name: Kalinowski, Cecelia T.
+Photos:
+- 124.jpg]]></description>
+      <Point><coordinates>-97.705794,29.940186,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Kalinowski, Mary</name>
+      <description><![CDATA[Name: Kalinowski, Mary
+Photos:
+- 071.jpg]]></description>
+      <Point><coordinates>-97.705803,29.940219,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Kalinowski, Simon</name>
+      <description><![CDATA[Name: Kalinowski, Simon
+Photos:
+- 092.jpg]]></description>
+      <Point><coordinates>-97.705819,29.9402,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Kalinowski, Zigmond S.</name>
+      <description><![CDATA[Name: Kalinowski, Zigmond S.
+Photos:
+- 124.jpg]]></description>
+      <Point><coordinates>-97.705794,29.940186,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Kenney, Leona Charlotte</name>
+      <description><![CDATA[Name: Kenney, Leona Charlotte
+Photos:
+- 131.jpg]]></description>
+      <Point><coordinates>-97.705689,29.940008,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Kenney, William Harry</name>
+      <description><![CDATA[Name: Kenney, William Harry
+Photos:
+- 131.jpg]]></description>
+      <Point><coordinates>-97.705689,29.940008,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Krzywosinski, John (1847-1919)</name>
+      <description><![CDATA[Name: Krzywosinski, John (1847-1919)
+Photos:
+- 048.jpg]]></description>
+      <Point><coordinates>-97.70585,29.940083,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Krzywosinski, John (1901-1968)</name>
+      <description><![CDATA[Name: Krzywosinski, John (1901-1968)
+Photos:
+- 050.jpg]]></description>
+      <Point><coordinates>-97.705642,29.940353,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Krzywosinski, Prakseda</name>
+      <description><![CDATA[Name: Krzywosinski, Prakseda
+Photos:
+- 048.jpg]]></description>
+      <Point><coordinates>-97.70585,29.940083,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Perry, Edward Keith</name>
+      <description><![CDATA[Name: Perry, Edward Keith
+Photos:
+- 134.jpg]]></description>
+      <Point><coordinates>-97.705819,29.939756,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Perry, Heather Lynnette</name>
+      <description><![CDATA[Name: Perry, Heather Lynnette
+Photos:
+- 133.jpg]]></description>
+      <Point><coordinates>-97.705781,29.939772,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Perry, Rose Marie</name>
+      <description><![CDATA[Name: Perry, Rose Marie
+Photos:
+- 134.jpg]]></description>
+      <Point><coordinates>-97.705819,29.939756,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pieniazek, Michael</name>
+      <description><![CDATA[Name: Pieniazek, Michael
+Photos:
+- 073.jpg]]></description>
+      <Point><coordinates>-97.705872,29.940067,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rakowitz, Ike L.</name>
+      <description><![CDATA[Name: Rakowitz, Ike L.
+Photos:
+- 038.jpg]]></description>
+      <Point><coordinates>-97.705842,29.940278,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rakowitz, Annie V.</name>
+      <description><![CDATA[Name: Rakowitz, Annie V.
+Photos:
+- 084.jpg]]></description>
+      <Point><coordinates>-97.705825,29.940281,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rakowitz, Janie</name>
+      <description><![CDATA[Name: Rakowitz, Janie
+Photos:
+- 044.jpg]]></description>
+      <Point><coordinates>-97.705886,29.940303,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rakowitz, John</name>
+      <description><![CDATA[Name: Rakowitz, John
+Photos:
+- 044.jpg]]></description>
+      <Point><coordinates>-97.705886,29.940303,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rakowitz, Pete</name>
+      <description><![CDATA[Name: Rakowitz, Pete
+Photos:
+- 080.jpg]]></description>
+      <Point><coordinates>-97.705911,29.940286,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rakowitz, Sylvester J.</name>
+      <description><![CDATA[Name: Rakowitz, Sylvester J.
+Photos:
+- 084.jpg]]></description>
+      <Point><coordinates>-97.705825,29.940281,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Scholwinski, Age 9</name>
+      <description><![CDATA[Name: Scholwinski, Age 9
+Photos:
+- 090.jpg]]></description>
+      <Point><coordinates>-97.705947,29.940367,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Scholwinski, Sophie</name>
+      <description><![CDATA[Name: Scholwinski, Sophie
+Photos:
+- 094.jpg]]></description>
+      <Point><coordinates>-97.705881,29.940222,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Sykowski, Joseph</name>
+      <description><![CDATA[Name: Sykowski, Joseph
+Photos:
+- 061.jpg]]></description>
+      <Point><coordinates>-97.705856,29.940044,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Sykowski, Katherine</name>
+      <description><![CDATA[Name: Sykowski, Katherine
+Photos:
+- 061.jpg]]></description>
+      <Point><coordinates>-97.705856,29.940044,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Urbanski, Angela</name>
+      <description><![CDATA[Name: Urbanski, Angela
+Photos:
+- 004.jpg]]></description>
+      <Point><coordinates>-97.705903,29.940333,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Urbanski, Ignatz</name>
+      <description><![CDATA[Name: Urbanski, Ignatz
+Photos:
+- 037.jpg]]></description>
+      <Point><coordinates>-97.705886,29.940214,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Urbanski, John</name>
+      <description><![CDATA[Name: Urbanski, John
+Photos:
+- 053.jpg]]></description>
+      <Point><coordinates>-97.705842,29.940194,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Urbanski, Josephine</name>
+      <description><![CDATA[Name: Urbanski, Josephine
+Photos:
+- 037.jpg]]></description>
+      <Point><coordinates>-97.705886,29.940214,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Urbanski, Mary</name>
+      <description><![CDATA[Name: Urbanski, Mary
+Photos:
+- 101.jpg]]></description>
+      <Point><coordinates>-97.705911,29.940353,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Urbanski, Steve</name>
+      <description><![CDATA[Name: Urbanski, Steve
+Photos:
+- 101.jpg]]></description>
+      <Point><coordinates>-97.705911,29.940353,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Walenta, Adolph</name>
+      <description><![CDATA[Name: Walenta, Adolph
+Photos:
+- 003.jpg]]></description>
+      <Point><coordinates>-97.705881,29.939747,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Walenta, Billy Ray</name>
+      <description><![CDATA[Name: Walenta, Billy Ray
+Photos:
+- 132.jpg]]></description>
+      <Point><coordinates>-97.705672,29.939892,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Walenta, Bonnie</name>
+      <description><![CDATA[Name: Walenta, Bonnie
+Photos:
+- 003.jpg]]></description>
+      <Point><coordinates>-97.705881,29.939747,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Walenta, Joyce Marie</name>
+      <description><![CDATA[Name: Walenta, Joyce Marie
+Photos:
+- 132.jpg]]></description>
+      <Point><coordinates>-97.705672,29.939892,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Zaleski, Constance</name>
+      <description><![CDATA[Name: Zaleski, Constance
+Photos:
+- 016.jpg]]></description>
+      <Point><coordinates>-97.705789,29.940056,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Zaleski, Josephine</name>
+      <description><![CDATA[Name: Zaleski, Josephine
+Photos:
+- 059.jpg]]></description>
+      <Point><coordinates>-97.705842,29.940072,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Zaleski, Maggie M.</name>
+      <description><![CDATA[Name: Zaleski, Maggie M.
+Photos:
+- 016.jpg]]></description>
+      <Point><coordinates>-97.705789,29.940056,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Zaleski, Wyadyslaw</name>
+      <description><![CDATA[Name: Zaleski, Wyadyslaw
+Photos:
+- 123.jpg]]></description>
+      <Point><coordinates>-97.705819,29.940139,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Zaleski, Wyadysyawa</name>
+      <description><![CDATA[Name: Zaleski, Wyadysyawa
+Photos:
+- 123.jpg]]></description>
+      <Point><coordinates>-97.705819,29.940139,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Zalewski, Anna</name>
+      <description><![CDATA[Name: Zalewski, Anna
+Photos:
+- 120.jpg]]></description>
+      <Point><coordinates>-97.70585,29.940114,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Zalewski, Wailenti</name>
+      <description><![CDATA[Name: Zalewski, Wailenti
+Photos:
+- 120.jpg]]></description>
+      <Point><coordinates>-97.70585,29.940114,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Zolewski, Raimut</name>
+      <description><![CDATA[Name: Zolewski, Raimut
+Photos:
+- 082.jpg]]></description>
+      <Point><coordinates>-97.705894,29.940103,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>
