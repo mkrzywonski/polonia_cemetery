@@ -1,1 +1,26 @@
 _vti_cnf/
+
+# Backup folders
+images-backup-fullres/
+
+# Working directories (not for production)
+photos/
+new-images/
+processed-images/
+
+# Large working files
+*.xcf
+google-map.png
+
+# Utility scripts
+find-unreferenced.js
+resize-images.sh
+sort-records.js
+delete-unreferenced.js
+
+# Misc
+*.kml
+*.csv
+*.txt
+!LICENSE.txt
+!CONTENT_LICENSE.txt
