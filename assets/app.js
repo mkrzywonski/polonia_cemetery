@@ -715,7 +715,10 @@ window.addEventListener('resize', () => {
 });
 
 if (searchEl) {
-  searchEl.addEventListener('input', render);
+  searchEl.addEventListener('input', () => {
+    render();
+    updateSearchParam(searchEl.value.trim());
+  });
 }
 if (photoOnlyEl) {
   photoOnlyEl.addEventListener('change', render);
@@ -724,9 +727,25 @@ if (clearSearchEl && searchEl) {
   clearSearchEl.addEventListener('click', () => {
     searchEl.value = '';
     render();
+    updateSearchParam('');
     searchEl.focus();
   });
 }
+
+const getSearchParam = () => {
+  const params = new URLSearchParams(window.location.search);
+  return params.get('search') || params.get('q') || '';
+};
+
+const updateSearchParam = (value) => {
+  const url = new URL(window.location);
+  if (value) {
+    url.searchParams.set('search', value);
+  } else {
+    url.searchParams.delete('search');
+  }
+  history.replaceState(null, '', url);
+};
 
 const init = () => {
   try {
@@ -737,6 +756,13 @@ const init = () => {
     return;
   }
   updateCounts();
+
+  // Load search from URL parameter
+  const initialSearch = getSearchParam();
+  if (initialSearch && searchEl) {
+    searchEl.value = initialSearch;
+  }
+
   render();
   initMap(records);
 };
