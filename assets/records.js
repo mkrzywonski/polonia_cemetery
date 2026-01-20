@@ -1325,8 +1325,8 @@ window.POLONIA_RECORDS = [
   {
     "last_name": "H.",
     "first_name": "J.",
-    "birth_date": "1910",
-    "death_date": "1925",
+    "birth_date": "Dec 2, 1910",
+    "death_date": "Jan 23, 1925",
     "photos": [
       "0186-1.jpg"
     ],
@@ -1335,8 +1335,8 @@ window.POLONIA_RECORDS = [
       "lon": -97.70568608854038
     },
     "inscription": [
-      "AQUI DESCANSAN LOS RESTOS DE J.H. NACIO [DRE] 2 DE 1910 Y FALLECIO J. 23 DE 1925 SU PADRE DEDICA ESTE RECUERDO EN SU MEMORIA E.P.D.",
-      "Translation: Here lie the remains of J.H. Born [unknown] 2 of 1910 and Died January 23, 1925. His father dedicates this memorial in his memory. Rest in Peace."
+      "AQUI DESCANSAN LOS RESTOS DE J.H. NACIO DRE 2 DE 1910 Y FALLECIO J. 23 DE 1925 SU PADRE DEDICA ESTE RECUERDO EN SU MEMORIA E.P.D.",
+      "Translation: Here lie the remains of J.H. Born December 2 of 1910 and Died January 23, 1925. His father dedicates this memorial in his memory. Rest in Peace."
     ]
   },
   {
