@@ -8,8 +8,8 @@ window.POLONIA_RECORDS = [
       "0001-2.jpg"
     ],
     "coords": {
-      "lat": 29.939907,
-      "lon": -97.705757
+      "lat": 29.93991339643825,
+      "lon": -97.70576159399224
     },
     "inscription": [
       "SATURNINO BALANDRAN",
@@ -25,8 +25,8 @@ window.POLONIA_RECORDS = [
       "0002-1.jpg"
     ],
     "coords": {
-      "lat": 29.940485,
-      "lon": -97.705563
+      "lat": 29.940501174206556,
+      "lon": -97.70555972080719
     },
     "inscription": [
       "FRED P. BERAN",
@@ -44,8 +44,8 @@ window.POLONIA_RECORDS = [
       "0003-1.jpg"
     ],
     "coords": {
-      "lat": 29.940486,
-      "lon": -97.70555
+      "lat": 29.940502896349948,
+      "lon": -97.70554871457334
     },
     "inscription": [
       "KATHRYN S. BERAN",
@@ -62,8 +62,8 @@ window.POLONIA_RECORDS = [
       "0004-1.jpg"
     ],
     "coords": {
-      "lat": 29.940469,
-      "lon": -97.705558
+      "lat": 29.94048705263074,
+      "lon": -97.70555382461048
     },
     "inscription": [
       "BERAN",
@@ -85,8 +85,8 @@ window.POLONIA_RECORDS = [
       "0004-1.jpg"
     ],
     "coords": {
-      "lat": 29.940476,
-      "lon": -97.705559
+      "lat": 29.94049359677563,
+      "lon": -97.7055553969296
     },
     "inscription": [
       "BERAN",
@@ -108,8 +108,8 @@ window.POLONIA_RECORDS = [
       "0006-1.jpg"
     ],
     "coords": {
-      "lat": 29.940428,
-      "lon": -97.705643
+      "lat": 29.940446685084808,
+      "lon": -97.70564207527872
     },
     "inscription": [
       "BIENEK",
@@ -131,8 +131,8 @@ window.POLONIA_RECORDS = [
       "0007-2.jpg"
     ],
     "coords": {
-      "lat": 29.940356,
-      "lon": -97.705587
+      "lat": 29.94037334496631,
+      "lon": -97.70558279517003
     },
     "inscription": [
       "EDMUND BIENEK",
@@ -150,8 +150,8 @@ window.POLONIA_RECORDS = [
       "0008-1.jpg"
     ],
     "coords": {
-      "lat": 29.94045,
-      "lon": -97.705646
+      "lat": 29.940468611447468,
+      "lon": -97.70564535216516
     },
     "inscription": [
       "BIENEK",
@@ -173,8 +173,8 @@ window.POLONIA_RECORDS = [
       "0009-1.jpg"
     ],
     "coords": {
-      "lat": 29.940404,
-      "lon": -97.705597
+      "lat": 29.94041875507523,
+      "lon": -97.70559441147593
     },
     "inscription": [
       "BIENEK",
@@ -196,8 +196,8 @@ window.POLONIA_RECORDS = [
       "0010-1.jpg"
     ],
     "coords": {
-      "lat": 29.940284,
-      "lon": -97.705619
+      "lat": 29.940299483842775,
+      "lon": -97.70561467117882
     },
     "inscription": [
       "GLADYS BIENEK"
@@ -212,8 +212,8 @@ window.POLONIA_RECORDS = [
       "0006-1.jpg"
     ],
     "coords": {
-      "lat": 29.940435,
-      "lon": -97.705644
+      "lat": 29.9404524277036,
+      "lon": -97.70564267107626
     },
     "inscription": [
       "BIENEK",
@@ -234,8 +234,8 @@ window.POLONIA_RECORDS = [
       "0012-1.jpg"
     ],
     "coords": {
-      "lat": 29.940373,
-      "lon": -97.705592
+      "lat": 29.94039031179456,
+      "lon": -97.70558994474044
     },
     "inscription": [
       "JOSEPHINE FRANCES BIENEK",
@@ -252,8 +252,8 @@ window.POLONIA_RECORDS = [
       "0008-1.jpg"
     ],
     "coords": {
-      "lat": 29.940459,
-      "lon": -97.705648
+      "lat": 29.940474876122515,
+      "lon": -97.7056459479627
     },
     "inscription": [
       "BIENEK",
@@ -275,8 +275,8 @@ window.POLONIA_RECORDS = [
       "0009-1.jpg"
     ],
     "coords": {
-      "lat": 29.940396,
-      "lon": -97.705596
+      "lat": 29.94041196834393,
+      "lon": -97.70559411357716
     },
     "inscription": [
       "BIENEK",
@@ -297,8 +297,8 @@ window.POLONIA_RECORDS = [
       "0015-1.jpg"
     ],
     "coords": {
-      "lat": 29.940156,
-      "lon": -97.705841
+      "lat": 29.940169225814174,
+      "lon": -97.70583988368166
     },
     "inscription": [
       "TU SPOCZYWA W BOGU S.P. ZOFIA BIENIEK UR. 12 MARCA 1900 R ZM 22 PAZDIERNIKA 1922 R. WIECZNYPOKOJ JEJ DUSZY",
@@ -314,8 +314,8 @@ window.POLONIA_RECORDS = [
       "0016-1.jpg"
     ],
     "coords": {
-      "lat": 29.940341,
-      "lon": -97.705584
+      "lat": 29.94035663916619,
+      "lon": -97.70558070987866
     },
     "inscription": [
       "ELANORA BONKOWSKI 1920 - 1926"
@@ -330,8 +330,8 @@ window.POLONIA_RECORDS = [
       "0017-1.jpg"
     ],
     "coords": {
-      "lat": 29.940362,
-      "lon": -97.705631
+      "lat": 29.940376225098415,
+      "lon": -97.70563135393013
     },
     "inscription": [
       "GENEVIEVE A. BONKOWSKI",
@@ -348,8 +348,8 @@ window.POLONIA_RECORDS = [
       "0018-1.jpg"
     ],
     "coords": {
-      "lat": 29.940334,
-      "lon": -97.705626
+      "lat": 29.94035116639823,
+      "lon": -97.70562956653752
     },
     "inscription": [
       "BONKOWSKI",
@@ -371,8 +371,8 @@ window.POLONIA_RECORDS = [
       "0019-1.jpg"
     ],
     "coords": {
-      "lat": 29.940319,
-      "lon": -97.705628
+      "lat": 29.94033602676687,
+      "lon": -97.70562569385355
     },
     "inscription": [
       "MARTIN BONKOWSKI",
@@ -390,8 +390,8 @@ window.POLONIA_RECORDS = [
       "0020-1.jpg"
     ],
     "coords": {
-      "lat": 29.940378,
-      "lon": -97.705635
+      "lat": 29.940394758095422,
+      "lon": -97.7056352266141
     },
     "inscription": [
       "PETE J. BONKOWSKI",
@@ -408,8 +408,8 @@ window.POLONIA_RECORDS = [
       "0018-1.jpg"
     ],
     "coords": {
-      "lat": 29.940342,
-      "lon": -97.705626
+      "lat": 29.94035873621391,
+      "lon": -97.70563016233505
     },
     "inscription": [
       "BONKOWSKI",
@@ -424,6 +424,26 @@ window.POLONIA_RECORDS = [
   },
   {
     "last_name": "Bonkowski",
+    "first_name": "Teodora",
+    "birth_date": "Jan 8, 1913",
+    "death_date": "Jan 4, 1925",
+    "photos": [
+      "0184-1.jpg"
+    ],
+    "coords": {
+      "lat": 29.9403557472628,
+      "lon": -97.7055321796
+    },
+    "inscription": [
+      "TU SPOCZYWA",
+      "TEODORA BONKOWSKI",
+      "UR. 8 STYCZNIA 1913",
+      "UMARŁA 4 STYCZNIA 1925",
+      "Here rests Teodora Bonkowski, born January 8, 1913, died January 4, 1925"
+    ]
+  },
+  {
+    "last_name": "Bonkowski",
     "first_name": "Theodora",
     "birth_date": "1923",
     "death_date": "1925",
@@ -431,8 +451,8 @@ window.POLONIA_RECORDS = [
       "0022-1.jpg"
     ],
     "coords": {
-      "lat": 29.940326,
-      "lon": -97.705582
+      "lat": 29.940343085609534,
+      "lon": -97.70557711474754
     },
     "inscription": [
       "THEODORA BONKOWSKI 1923 - 1925"
@@ -447,8 +467,8 @@ window.POLONIA_RECORDS = [
       "0023-1.jpg"
     ],
     "coords": {
-      "lat": 29.940397,
-      "lon": -97.705637
+      "lat": 29.940415640345577,
+      "lon": -97.70563463081658
     },
     "inscription": [
       "DeFOREST G BOSTELMAN",
@@ -465,8 +485,8 @@ window.POLONIA_RECORDS = [
       "0024-1.jpg"
     ],
     "coords": {
-      "lat": 29.940412,
-      "lon": -97.705639
+      "lat": 29.940430779976936,
+      "lon": -97.70563552451287
     },
     "inscription": [
       "ISABEL T. BOSTELMAN",
@@ -483,8 +503,8 @@ window.POLONIA_RECORDS = [
       "0025-1.jpg"
     ],
     "coords": {
-      "lat": 29.940426,
-      "lon": -97.705517
+      "lat": 29.940441926182437,
+      "lon": -97.70551098266893
     },
     "inscription": [
       "COLBY",
@@ -505,8 +525,8 @@ window.POLONIA_RECORDS = [
       "0025-1.jpg"
     ],
     "coords": {
-      "lat": 29.940435,
-      "lon": -97.705518
+      "lat": 29.94044778146997,
+      "lon": -97.70551216190826
     },
     "inscription": [
       "COLBY",
@@ -519,30 +539,6 @@ window.POLONIA_RECORDS = [
     ]
   },
   {
-    "last_name": "Cross1",
-    "first_name": "",
-    "birth_date": null,
-    "death_date": null,
-    "photos": [],
-    "coords": {
-      "lat": 29.940248,
-      "lon": -97.705873
-    },
-    "inscription": []
-  },
-  {
-    "last_name": "Cross2 (Broken Headstone)",
-    "first_name": "",
-    "birth_date": null,
-    "death_date": null,
-    "photos": [],
-    "coords": {
-      "lat": 29.940323,
-      "lon": -97.705536
-    },
-    "inscription": []
-  },
-  {
     "last_name": "Dedek",
     "first_name": "Anna",
     "birth_date": "March 13, 1897",
@@ -553,8 +549,8 @@ window.POLONIA_RECORDS = [
       "0031-3.jpg"
     ],
     "coords": {
-      "lat": 29.940125,
-      "lon": -97.705842
+      "lat": 29.940127461313867,
+      "lon": -97.70582439294576
     },
     "inscription": [
       "ANNA DEDEK",
@@ -571,8 +567,8 @@ window.POLONIA_RECORDS = [
       "060.jpg"
     ],
     "coords": {
-      "lat": 29.940188,
-      "lon": -97.705864
+      "lat": 29.940201839688097,
+      "lon": -97.70586341470958
     },
     "inscription": [
       "KATE DEDEK",
@@ -589,8 +585,8 @@ window.POLONIA_RECORDS = [
       "0033-1.jpg"
     ],
     "coords": {
-      "lat": 29.940214,
-      "lon": -97.705545
+      "lat": 29.94024082037155,
+      "lon": -97.70554618444581
     },
     "inscription": [
       "DZENOWSKI",
@@ -609,8 +605,8 @@ window.POLONIA_RECORDS = [
       "0034-1.jpg"
     ],
     "coords": {
-      "lat": 29.940232,
-      "lon": -97.705555
+      "lat": 29.94025249188891,
+      "lon": -97.70555069974678
     },
     "inscription": [
       "FELIX DZENOWSKI 1922 - 1066"
@@ -625,8 +621,8 @@ window.POLONIA_RECORDS = [
       "0033-1.jpg"
     ],
     "coords": {
-      "lat": 29.940218,
-      "lon": -97.705548
+      "lat": 29.940226976592776,
+      "lon": -97.70554166926736
     },
     "inscription": [
       "DZENOWSKI",
@@ -645,8 +641,8 @@ window.POLONIA_RECORDS = [
       "0036-1.jpg"
     ],
     "coords": {
-      "lat": 29.940278,
-      "lon": -97.705531
+      "lat": 29.940292958590124,
+      "lon": -97.705524411409
     },
     "inscription": [
       "VERONICA DZENOWSKI 1850 - 1953"
@@ -661,8 +657,8 @@ window.POLONIA_RECORDS = [
       "0037-1.jpg"
     ],
     "coords": {
-      "lat": 29.940176,
-      "lon": -97.705594
+      "lat": 29.94018938824494,
+      "lon": -97.70558952464542
     },
     "inscription": [
       "WALTER ANDREW DZENOWSKI",
@@ -680,8 +676,8 @@ window.POLONIA_RECORDS = [
       "0039-1.jpg"
     ],
     "coords": {
-      "lat": 29.9403,
-      "lon": -97.705492
+      "lat": 29.940314506495277,
+      "lon": -97.70548661253318
     },
     "inscription": [
       "DZIENOWSKI",
@@ -703,8 +699,8 @@ window.POLONIA_RECORDS = [
       "0039-1.jpg"
     ],
     "coords": {
-      "lat": 29.940305,
-      "lon": -97.705493
+      "lat": 29.94032036178281,
+      "lon": -97.70548700561295
     },
     "inscription": [
       "DZIENOWSKI",
@@ -726,8 +722,8 @@ window.POLONIA_RECORDS = [
       "0041-1.jpg"
     ],
     "coords": {
-      "lat": 29.940294,
-      "lon": -97.705575
+      "lat": 29.94031018599598,
+      "lon": -97.70556939056617
     },
     "inscription": [
       "PAUL DZIERANOWSKI",
@@ -744,8 +740,8 @@ window.POLONIA_RECORDS = [
       "0042-1.jpg"
     ],
     "coords": {
-      "lat": 29.940248,
-      "lon": -97.705561
+      "lat": 29.940265943807223,
+      "lon": -97.7055558923429
     },
     "inscription": [
       "DZIERZANOWSKI",
@@ -763,8 +759,8 @@ window.POLONIA_RECORDS = [
       "0043-1.jpg"
     ],
     "coords": {
-      "lat": 29.940242,
-      "lon": -97.705521
+      "lat": 29.940255657046162,
+      "lon": -97.7055177380497
     },
     "inscription": [
       "DOROTHY DZIERZANOWSKI"
@@ -779,8 +775,8 @@ window.POLONIA_RECORDS = [
       "0044-1.jpg"
     ],
     "coords": {
-      "lat": 29.940259,
-      "lon": -97.705564
+      "lat": 29.94027464798966,
+      "lon": -97.70555927881863
     },
     "inscription": [
       "EDWARD DZIERZANOWSKI 1907 - 1943"
@@ -795,8 +791,8 @@ window.POLONIA_RECORDS = [
       "0045-1.jpg"
     ],
     "coords": {
-      "lat": 29.940292,
-      "lon": -97.705531
+      "lat": 29.940306921583986,
+      "lon": -97.70552748873452
     },
     "inscription": [
       "JOSEPH DZIERZANOWSKI",
@@ -814,8 +810,8 @@ window.POLONIA_RECORDS = [
       "0046-1.jpg"
     ],
     "coords": {
-      "lat": 29.940266,
-      "lon": -97.705524
+      "lat": 29.940281778290462,
+      "lon": -97.70552080637825
     },
     "inscription": [
       "LOUIS DZIERZANOWSKI"
@@ -830,8 +826,8 @@ window.POLONIA_RECORDS = [
       "0047-1.jpg"
     ],
     "coords": {
-      "lat": 29.940182,
-      "lon": -97.705534
+      "lat": 29.940193354223123,
+      "lon": -97.70552970396484
     },
     "inscription": [
       "DZIERZANOWSKI LUCIA",
@@ -848,8 +844,8 @@ window.POLONIA_RECORDS = [
       "0048-1.jpg"
     ],
     "coords": {
-      "lat": 29.940357,
-      "lon": -97.70554
+      "lat": 29.94037236303288,
+      "lon": -97.70553417109078
     },
     "inscription": [
       "MARY DZIERZANOWSKI 1855 - 1928",
@@ -865,8 +861,8 @@ window.POLONIA_RECORDS = [
       "0050-1.jpg"
     ],
     "coords": {
-      "lat": 29.940269,
-      "lon": -97.705568
+      "lat": 29.94028651732935,
+      "lon": -97.70556311682445
     },
     "inscription": [
       "STELLA DZIERZANOWSKI 1889 - 1955"
@@ -881,8 +877,8 @@ window.POLONIA_RECORDS = [
       "0042-1.jpg"
     ],
     "coords": {
-      "lat": 29.940244,
-      "lon": -97.70556
+      "lat": 29.940261591716006,
+      "lon": -97.70555476351765
     },
     "inscription": [
       "DZIERZANOWSKI",
@@ -899,8 +895,8 @@ window.POLONIA_RECORDS = [
       "0052-1.jpg"
     ],
     "coords": {
-      "lat": 29.940196,
-      "lon": -97.705539
+      "lat": 29.940209377831703,
+      "lon": -97.7055355738561
     },
     "inscription": [
       "DZIERZANOWSKI TECLA",
@@ -918,8 +914,8 @@ window.POLONIA_RECORDS = [
       "0053-1.jpg"
     ],
     "coords": {
-      "lat": 29.940252,
-      "lon": -97.705522
+      "lat": 29.94026633945188,
+      "lon": -97.7055186411099
     },
     "inscription": [
       "VICTORIA DZIERZANOWSKI"
@@ -935,8 +931,8 @@ window.POLONIA_RECORDS = [
       "0054-1.jpg"
     ],
     "coords": {
-      "lat": 29.940283,
-      "lon": -97.705572
+      "lat": 29.940297917674016,
+      "lon": -97.70556611367972
     },
     "inscription": [
       "WALTER DZIERZANOWSKI 1889 - 1919"
@@ -952,8 +948,8 @@ window.POLONIA_RECORDS = [
       "0049-2.jpg"
     ],
     "coords": {
-      "lat": 29.940308,
-      "lon": -97.705533
+      "lat": 29.94032517630394,
+      "lon": -97.70553024029297
     },
     "inscription": [
       "SIMON DZIRZANOWSKI",
@@ -971,8 +967,8 @@ window.POLONIA_RECORDS = [
       "0055-1.jpg"
     ],
     "coords": {
-      "lat": 29.940236,
-      "lon": -97.705449
+      "lat": 29.94025109822695,
+      "lon": -97.70544774914487
     },
     "inscription": [
       "JOHN RICHARD EVERETT",
@@ -991,8 +987,8 @@ window.POLONIA_RECORDS = [
       "088.jpg"
     ],
     "coords": {
-      "lat": 29.940131,
-      "lon": -97.705513
+      "lat": 29.94014290952945,
+      "lon": -97.70551232005612
     },
     "inscription": [
       "ROBERT LEE EWALD 1938 - 2001"
@@ -1007,8 +1003,8 @@ window.POLONIA_RECORDS = [
       "0057-1.jpg"
     ],
     "coords": {
-      "lat": 29.940432,
-      "lon": -97.705604
+      "lat": 29.940448512281694,
+      "lon": -97.70560007155251
     },
     "inscription": [
       "FOGLE",
@@ -1030,8 +1026,8 @@ window.POLONIA_RECORDS = [
       "0057-1.jpg"
     ],
     "coords": {
-      "lat": 29.940424,
-      "lon": -97.705603
+      "lat": 29.940441986578524,
+      "lon": -97.70559917785621
     },
     "inscription": [
       "FOGLE",
@@ -1053,8 +1049,8 @@ window.POLONIA_RECORDS = [
       "0059-1.jpg"
     ],
     "coords": {
-      "lat": 29.940127,
-      "lon": -97.705857
+      "lat": 29.940138946551453,
+      "lon": -97.7058616302917
     },
     "inscription": [
       "FORYSZEWSKI",
@@ -1075,8 +1071,8 @@ window.POLONIA_RECORDS = [
       "0059-1.jpg"
     ],
     "coords": {
-      "lat": 29.940134,
-      "lon": -97.705858
+      "lat": 29.94014573328275,
+      "lon": -97.70586311978552
     },
     "inscription": [
       "FORYSZEWSKI",
@@ -1098,8 +1094,8 @@ window.POLONIA_RECORDS = [
       "0061-1.jpg"
     ],
     "coords": {
-      "lat": 29.940159,
-      "lon": -97.705865
+      "lat": 29.94017053095481,
+      "lon": -97.7058678861658
     },
     "inscription": [
       "JOE FORYSZEWSKI",
@@ -1116,8 +1112,8 @@ window.POLONIA_RECORDS = [
       "052.jpg"
     ],
     "coords": {
-      "lat": 29.940145,
-      "lon": -97.705863
+      "lat": 29.940158001604715,
+      "lon": -97.7058660987732
     },
     "inscription": [
       "JOHN FORYSZEWSKI",
@@ -1134,8 +1130,8 @@ window.POLONIA_RECORDS = [
       "0063-1.jpg"
     ],
     "coords": {
-      "lat": 29.940169,
-      "lon": -97.705867
+      "lat": 29.94018201619239,
+      "lon": -97.70587026935594
     },
     "inscription": [
       "LEONA E FORYSZEWSKI",
@@ -1152,8 +1148,8 @@ window.POLONIA_RECORDS = [
       "0064-1.jpg"
     ],
     "coords": {
-      "lat": 29.940109,
-      "lon": -97.705859
+      "lat": 29.940121979723205,
+      "lon": -97.70585835340525
     },
     "inscription": [
       "MOTHER",
@@ -1169,8 +1165,8 @@ window.POLONIA_RECORDS = [
       "0065-1.jpg"
     ],
     "coords": {
-      "lat": 29.940337,
-      "lon": -97.705856
+      "lat": 29.940353381811082,
+      "lon": -97.70585926922693
     },
     "inscription": [
       "GRABARKEWITZ",
@@ -1187,8 +1183,8 @@ window.POLONIA_RECORDS = [
       "0066-1.jpg"
     ],
     "coords": {
-      "lat": 29.940343,
-      "lon": -97.705826
+      "lat": 29.94035803159824,
+      "lon": -97.70582841246419
     },
     "inscription": [
       "GRABARKEWITZ",
@@ -1210,8 +1206,8 @@ window.POLONIA_RECORDS = [
       "0067-1.jpg"
     ],
     "coords": {
-      "lat": 29.940324,
-      "lon": -97.705825
+      "lat": 29.940335215291313,
+      "lon": -97.7058261522128
     },
     "inscription": [
       "GRABARKEWITZ",
@@ -1232,8 +1228,8 @@ window.POLONIA_RECORDS = [
       "0065-1.jpg"
     ],
     "coords": {
-      "lat": 29.940344,
-      "lon": -97.705857
+      "lat": 29.94036001206314,
+      "lon": -97.70585985884661
     },
     "inscription": [
       "GRABARKEWITZ",
@@ -1250,8 +1246,8 @@ window.POLONIA_RECORDS = [
       "0069-1.jpg"
     ],
     "coords": {
-      "lat": 29.94031,
-      "lon": -97.705854
+      "lat": 29.9403230741804,
+      "lon": -97.70585838475476
     },
     "inscription": [
       "LEOPOLD GRABARKEWITZ",
@@ -1268,8 +1264,8 @@ window.POLONIA_RECORDS = [
       "0070-1.jpg"
     ],
     "coords": {
-      "lat": 29.940317,
-      "lon": -97.705855
+      "lat": 29.94032961832529,
+      "lon": -97.70585887610449
     },
     "inscription": [
       "MOTHER",
@@ -1290,8 +1286,8 @@ window.POLONIA_RECORDS = [
       "0067-1.jpg"
     ],
     "coords": {
-      "lat": 29.940318,
-      "lon": -97.705824
+      "lat": 29.940328326717747,
+      "lon": -97.70582556259312
     },
     "inscription": [
       "GRABARKEWITZ",
@@ -1312,8 +1308,8 @@ window.POLONIA_RECORDS = [
       "0066-1.jpg"
     ],
     "coords": {
-      "lat": 29.940349,
-      "lon": -97.705827
+      "lat": 29.940364431414633,
+      "lon": -97.70582883162707
     },
     "inscription": [
       "GRABARKEWITZ",
@@ -1335,8 +1331,8 @@ window.POLONIA_RECORDS = [
       "0186-1.jpg"
     ],
     "coords": {
-      "lat": 29.939811,
-      "lon": -97.705689
+      "lat": 29.939816367384925,
+      "lon": -97.70568608854038
     },
     "inscription": [
       "AQUI DESCANSAN LOS RESTOS DE J.H. NACIO [DRE] 2 DE 1910 Y FALLECIO J. 23 DE 1925 SU PADRE DEDICA ESTE RECUERDO EN SU MEMORIA E.P.D.",
@@ -1352,8 +1348,8 @@ window.POLONIA_RECORDS = [
       "0073-1.jpg"
     ],
     "coords": {
-      "lat": 29.940449,
-      "lon": -97.705519
+      "lat": 29.940466969227696,
+      "lon": -97.70548081475255
     },
     "inscription": [
       "HARRIS",
@@ -1374,8 +1370,8 @@ window.POLONIA_RECORDS = [
       "0073-1.jpg"
     ],
     "coords": {
-      "lat": 29.940456,
-      "lon": -97.705519
+      "lat": 29.94047833113684,
+      "lon": -97.70549170686202
     },
     "inscription": [
       "HARRIS",
@@ -1396,8 +1392,8 @@ window.POLONIA_RECORDS = [
       "0075-1.jpg"
     ],
     "coords": {
-      "lat": 29.940265,
-      "lon": -97.705844
+      "lat": 29.94028014812617,
+      "lon": -97.70584613658107
     },
     "inscription": [
       "JOSEPHINE S. HOLMES",
@@ -1415,8 +1411,8 @@ window.POLONIA_RECORDS = [
       "0076-1.jpg"
     ],
     "coords": {
-      "lat": 29.940251,
-      "lon": -97.705815
+      "lat": 29.94026447772848,
+      "lon": -97.70581277104611
     },
     "inscription": [
       "BABY GIRL KALINOWSKI",
@@ -1432,8 +1428,8 @@ window.POLONIA_RECORDS = [
       "0077-1.jpg"
     ],
     "coords": {
-      "lat": 29.940239,
-      "lon": -97.705812
+      "lat": 29.940254036603402,
+      "lon": -97.7058109836535
     },
     "inscription": [
       "BILL KALINOWSKI",
@@ -1449,8 +1445,8 @@ window.POLONIA_RECORDS = [
       "0078-1.jpg"
     ],
     "coords": {
-      "lat": 29.940186,
-      "lon": -97.705794
+      "lat": 29.9402146298786,
+      "lon": -97.7057981735215
     },
     "inscription": [
       "KALINOWSKI",
@@ -1473,8 +1469,8 @@ window.POLONIA_RECORDS = [
       "0183-1.jpg"
     ],
     "coords": {
-      "lat": 29.94018,
-      "lon": -97.70579
+      "lat": 29.940191591987762,
+      "lon": -97.70579460746443
     },
     "inscription": [
       "KALINOWSKI",
@@ -1495,8 +1491,8 @@ window.POLONIA_RECORDS = [
       "0079-1.jpg"
     ],
     "coords": {
-      "lat": 29.940227,
-      "lon": -97.705809
+      "lat": 29.94024229033769,
+      "lon": -97.70580860046337
     },
     "inscription": [
       "MARY KALINOWSKI",
@@ -1512,8 +1508,8 @@ window.POLONIA_RECORDS = [
       "0183-1.jpg"
     ],
     "coords": {
-      "lat": 29.940185,
-      "lon": -97.705795
+      "lat": 29.940197533382463,
+      "lon": -97.70579500054421
     },
     "inscription": [
       "KALINOWSKI",
@@ -1534,8 +1530,8 @@ window.POLONIA_RECORDS = [
       "0080-1.jpg"
     ],
     "coords": {
-      "lat": 29.940216,
-      "lon": -97.705807
+      "lat": 29.940230022015726,
+      "lon": -97.70580591937447
     },
     "inscription": [
       "SIMON KALINOWSKI",
@@ -1551,8 +1547,8 @@ window.POLONIA_RECORDS = [
       "0078-1.jpg"
     ],
     "coords": {
-      "lat": 29.940186,
-      "lon": -97.705794
+      "lat": 29.94020631480283,
+      "lon": -97.70579725965433
     },
     "inscription": [
       "KALINOWSKI",
@@ -1575,8 +1571,8 @@ window.POLONIA_RECORDS = [
       "0082-1.jpg"
     ],
     "coords": {
-      "lat": 29.940155,
-      "lon": -97.705524
+      "lat": 29.940166648208823,
+      "lon": -97.70552135065805
     },
     "inscription": [
       "KARSTETTER",
@@ -1598,8 +1594,8 @@ window.POLONIA_RECORDS = [
       "0082-1.jpg"
     ],
     "coords": {
-      "lat": 29.940161,
-      "lon": -97.705525
+      "lat": 29.94017475892428,
+      "lon": -97.70552383407359
     },
     "inscription": [
       "KARSTETTER",
@@ -1621,8 +1617,8 @@ window.POLONIA_RECORDS = [
       "0084-1.jpg"
     ],
     "coords": {
-      "lat": 29.940004,
-      "lon": -97.705665
+      "lat": 29.940011191225057,
+      "lon": -97.70566617722743
     },
     "inscription": [
       "KENNEY",
@@ -1645,8 +1641,8 @@ window.POLONIA_RECORDS = [
       "0084-1.jpg"
     ],
     "coords": {
-      "lat": 29.940011,
-      "lon": -97.705666
+      "lat": 29.9400190356523,
+      "lon": -97.70566691448927
     },
     "inscription": [
       "KENNEY",
@@ -1687,8 +1683,8 @@ window.POLONIA_RECORDS = [
       "0093-1.jpg"
     ],
     "coords": {
-      "lat": 29.940255,
-      "lon": -97.705452
+      "lat": 29.940269891348123,
+      "lon": -97.70545045832546
     },
     "inscription": [
       "Bianka J. Krzywonski",
@@ -1705,8 +1701,8 @@ window.POLONIA_RECORDS = [
       "0087-1.jpg"
     ],
     "coords": {
-      "lat": 29.940187,
-      "lon": -97.705443
+      "lat": 29.940199675518148,
+      "lon": -97.7054387267029
     },
     "inscription": [
       "BRANDON ANTHONY KRZYWONSKI",
@@ -1724,8 +1720,8 @@ window.POLONIA_RECORDS = [
       "0088-1.jpg"
     ],
     "coords": {
-      "lat": 29.940213,
-      "lon": -97.705446
+      "lat": 29.94022578806546,
+      "lon": -97.70544369353397
     },
     "inscription": [
       "ELLIOTT FRANK KRZYWONSKI",
@@ -1743,8 +1739,8 @@ window.POLONIA_RECORDS = [
       "0089-1.jpg"
     ],
     "coords": {
-      "lat": 29.940335,
-      "lon": -97.705495
+      "lat": 29.94035273807858,
+      "lon": -97.70549840492659
     },
     "inscription": [
       "ELLIOTT RICHARD (RITCHIE) KRZYWONSKI",
@@ -1760,8 +1756,8 @@ window.POLONIA_RECORDS = [
       "0090-1.jpg"
     ],
     "coords": {
-      "lat": 29.940325,
-      "lon": -97.705493
+      "lat": 29.94034171636087,
+      "lon": -97.70549643952768
     },
     "inscription": [
       "FRANK C. KRZYWONSKI",
@@ -1779,8 +1775,8 @@ window.POLONIA_RECORDS = [
       "0091-1.jpg"
     ],
     "coords": {
-      "lat": 29.94027,
-      "lon": -97.705453
+      "lat": 29.94028626334365,
+      "lon": -97.70545084227318
     },
     "inscription": [
       "KRZYWONSKI",
@@ -1802,8 +1798,8 @@ window.POLONIA_RECORDS = [
       "0092-1.jpg"
     ],
     "coords": {
-      "lat": 29.940225,
-      "lon": -97.705448
+      "lat": 29.940237261760494,
+      "lon": -97.70544549965435
     },
     "inscription": [
       "MARGARET LEMPAR KRZYWONSKI",
@@ -1821,8 +1817,8 @@ window.POLONIA_RECORDS = [
       "0093-1.jpg"
     ],
     "coords": {
-      "lat": 29.940254,
-      "lon": -97.705452
+      "lat": 29.94026375885595,
+      "lon": -97.70544955526526
     },
     "inscription": [
       "Mark A. Krzywonski",
@@ -1839,8 +1835,8 @@ window.POLONIA_RECORDS = [
       "0094-1.jpg"
     ],
     "coords": {
-      "lat": 29.9402,
-      "lon": -97.705444
+      "lat": 29.94021332525879,
+      "lon": -97.70544166164852
     },
     "inscription": [
       "MICHAEL REECE KRZYWONSKI",
@@ -1858,8 +1854,8 @@ window.POLONIA_RECORDS = [
       "0095-1.jpg"
     ],
     "coords": {
-      "lat": 29.940273,
-      "lon": -97.705488
+      "lat": 29.940287985487043,
+      "lon": -97.70548504021406
     },
     "inscription": [
       "MIKE J. KRZYWONSKI",
@@ -1876,8 +1872,8 @@ window.POLONIA_RECORDS = [
       "0096-1.jpg"
     ],
     "coords": {
-      "lat": 29.940256,
-      "lon": -97.705488
+      "lat": 29.940271108481802,
+      "lon": -97.70548228865559
     },
     "inscription": [
       "THEODORE KRZYWONSKI",
@@ -1894,8 +1890,8 @@ window.POLONIA_RECORDS = [
       "0091-1.jpg"
     ],
     "coords": {
-      "lat": 29.940263,
-      "lon": -97.705452
+      "lat": 29.940279374770082,
+      "lon": -97.70545044919339
     },
     "inscription": [
       "KRZYWONSKI",
@@ -1917,8 +1913,8 @@ window.POLONIA_RECORDS = [
       "0098-1.jpg"
     ],
     "coords": {
-      "lat": 29.940079,
-      "lon": -97.705841
+      "lat": 29.9400941561474,
+      "lon": -97.70584452110815
     },
     "inscription": [
       "FATHER - MOTHER",
@@ -1935,8 +1931,8 @@ window.POLONIA_RECORDS = [
       "0099-1.jpg"
     ],
     "coords": {
-      "lat": 29.940343,
-      "lon": -97.705672
+      "lat": 29.94036055973154,
+      "lon": -97.70566948442269
     },
     "inscription": [
       "KRZYWOSINSKI",
@@ -1958,8 +1954,8 @@ window.POLONIA_RECORDS = [
       "0100-1.jpg"
     ],
     "coords": {
-      "lat": 29.940348,
-      "lon": -97.705713
+      "lat": 29.940364111773754,
+      "lon": -97.70570972074744
     },
     "inscription": [
       "MARTIN L. KRZYWOSINSKI",
@@ -1977,8 +1973,8 @@ window.POLONIA_RECORDS = [
       "0101-1.jpg"
     ],
     "coords": {
-      "lat": 29.940242,
-      "lon": -97.705487
+      "lat": 29.94025664247731,
+      "lon": -97.70547835785779
     },
     "inscription": [
       "MARY KRZYWOSINSKI",
@@ -1995,8 +1991,8 @@ window.POLONIA_RECORDS = [
       "0098-1.jpg"
     ],
     "coords": {
-      "lat": 29.940085,
-      "lon": -97.705842
+      "lat": 29.940099376709938,
+      "lon": -97.70584556375384
     },
     "inscription": [
       "FATHER - MOTHER",
@@ -2013,8 +2009,8 @@ window.POLONIA_RECORDS = [
       "0099-1.jpg"
     ],
     "coords": {
-      "lat": 29.940351,
-      "lon": -97.705672
+      "lat": 29.940368651603478,
+      "lon": -97.70567067601776
     },
     "inscription": [
       "KRZYWOSINSKI",
@@ -2036,8 +2032,8 @@ window.POLONIA_RECORDS = [
       "0104-1.jpg"
     ],
     "coords": {
-      "lat": 29.94038,
-      "lon": -97.705508
+      "lat": 29.9403954472347,
+      "lon": -97.70550665960197
     },
     "inscription": [
       "ADELA LEMPA",
@@ -2056,8 +2052,8 @@ window.POLONIA_RECORDS = [
       "0105-1.jpg"
     ],
     "coords": {
-      "lat": 29.94035,
-      "lon": -97.705464
+      "lat": 29.940365807444515,
+      "lon": -97.70546027537728
     },
     "inscription": [
       "LEMPA",
@@ -2079,8 +2075,8 @@ window.POLONIA_RECORDS = [
       "0106-1.jpg"
     ],
     "coords": {
-      "lat": 29.940373,
-      "lon": -97.705507
+      "lat": 29.940387869803775,
+      "lon": -97.70550548036262
     },
     "inscription": [
       "JOE LEMPA",
@@ -2100,8 +2096,8 @@ window.POLONIA_RECORDS = [
       "0105-2.jpg"
     ],
     "coords": {
-      "lat": 29.940358,
-      "lon": -97.705465
+      "lat": 29.940372351589403,
+      "lon": -97.70546066845705
     },
     "inscription": [
       "LEMPA",
@@ -2123,8 +2119,8 @@ window.POLONIA_RECORDS = [
       "0108-1.jpg"
     ],
     "coords": {
-      "lat": 29.940295,
-      "lon": -97.70546
+      "lat": 29.94031037335114,
+      "lon": -97.70545477307098
     },
     "inscription": [
       "CONRAD JOSEPH LEMPAR",
@@ -2146,8 +2142,8 @@ window.POLONIA_RECORDS = [
       "0109-1.jpg"
     ],
     "coords": {
-      "lat": 29.940411,
-      "lon": -97.705477
+      "lat": 29.94042849346398,
+      "lon": -97.70547364008979
     },
     "inscription": [
       "LEMPAR",
@@ -2170,8 +2166,8 @@ window.POLONIA_RECORDS = [
       "0038-1.jpg"
     ],
     "coords": {
-      "lat": 29.940308,
-      "lon": -97.705462
+      "lat": 29.940325183784307,
+      "lon": -97.70545752462944
     },
     "inscription": [
       "MOTHER",
@@ -2193,8 +2189,8 @@ window.POLONIA_RECORDS = [
       "0109-1.jpg"
     ],
     "coords": {
-      "lat": 29.940403,
-      "lon": -97.705477
+      "lat": 29.940421604890414,
+      "lon": -97.70547206777067
     },
     "inscription": [
       "LEMPAR",
@@ -2213,10 +2209,12 @@ window.POLONIA_RECORDS = [
     "first_name": "Ottilia",
     "birth_date": "Oct 18, 1926",
     "death_date": "Sept 20, 2013",
-    "photos": ["0111-1.jpg"],
+    "photos": [
+      "0111-1.jpg"
+    ],
     "coords": {
-      "lat": 29.940381,
-      "lon": -97.705471
+      "lat": 29.940400594741032,
+      "lon": -97.705469709292
     },
     "inscription": [
       "LEMPAR",
@@ -2236,10 +2234,12 @@ window.POLONIA_RECORDS = [
     "first_name": "Wincent E",
     "birth_date": "Apr 4, 1922",
     "death_date": "Dec 13, 2012",
-    "photos": ["0111-1.jpg"],
+    "photos": [
+      "0111-1.jpg"
+    ],
     "coords": {
-      "lat": 29.940375,
-      "lon": -97.70547
+      "lat": 29.94039405059614,
+      "lon": -97.70546813697288
     },
     "inscription": [
       "LEMPAR",
@@ -2263,8 +2263,8 @@ window.POLONIA_RECORDS = [
       "0113-1.jpg"
     ],
     "coords": {
-      "lat": 29.940369,
-      "lon": -97.705676
+      "lat": 29.940386662544235,
+      "lon": -97.70567365500543
     },
     "inscription": [
       "LITTLE",
@@ -2282,10 +2282,12 @@ window.POLONIA_RECORDS = [
     "first_name": "Howard Derril",
     "birth_date": "Aug 13, 1955",
     "death_date": "Apr 16, 2004",
-    "photos": ["0114-1.jpg"],
+    "photos": [
+      "0114-1.jpg"
+    ],
     "coords": {
-      "lat": 29.94039,
-      "lon": -97.705678
+      "lat": 29.940408327878767,
+      "lon": -97.70567693189187
     },
     "inscription": [
       "HOWARD DERRIL LITTLE",
@@ -2299,10 +2301,12 @@ window.POLONIA_RECORDS = [
     "first_name": "Veronica Rose Krzywosinski",
     "birth_date": "Dec 14, 1935",
     "death_date": "Dec 14, 2010",
-    "photos": ["0113-1.jpg"],
+    "photos": [
+      "0113-1.jpg"
+    ],
     "coords": {
-      "lat": 29.940377,
-      "lon": -97.705676
+      "lat": 29.940393449275533,
+      "lon": -97.70567454870174
     },
     "inscription": [
       "LITTLE",
@@ -2320,10 +2324,12 @@ window.POLONIA_RECORDS = [
     "first_name": "Jean \"Cookie\"",
     "birth_date": "April 1, 1945",
     "death_date": "June 18, 2000",
-    "photos": ["0116-1.jpg"],
+    "photos": [
+      "0116-1.jpg"
+    ],
     "coords": {
-      "lat": 29.940287,
-      "lon": -97.705492
+      "lat": 29.940302795920214,
+      "lon": -97.70548543329383
     },
     "inscription": [
       "JEAN \"COOKIE\" MOHRMANN",
@@ -2341,8 +2347,8 @@ window.POLONIA_RECORDS = [
       "0117-1.jpg"
     ],
     "coords": {
-      "lat": 29.939761,
-      "lon": -97.705822
+      "lat": 29.93975857298639,
+      "lon": -97.70582048844805
     },
     "inscription": [
       "PERRY",
@@ -2361,8 +2367,8 @@ window.POLONIA_RECORDS = [
       "0118-1.jpg"
     ],
     "coords": {
-      "lat": 29.939761,
-      "lon": -97.705796
+      "lat": 29.939760746500085,
+      "lon": -97.70579148965476
     },
     "inscription": [
       "HEATHER LYNNETTE PERRY",
@@ -2380,8 +2386,8 @@ window.POLONIA_RECORDS = [
       "0117-1.jpg"
     ],
     "coords": {
-      "lat": 29.939751,
-      "lon": -97.705819
+      "lat": 29.93975062715802,
+      "lon": -97.7058196329585
     },
     "inscription": [
       "PERRY",
@@ -2400,8 +2406,8 @@ window.POLONIA_RECORDS = [
       "0120-1.jpg"
     ],
     "coords": {
-      "lat": 29.940078,
-      "lon": -97.70587
+      "lat": 29.940088087074503,
+      "lon": -97.70587363774604
     },
     "inscription": [
       "Tu spoczywa S.P. MICHAL PIENIAZEK urodzil sie 9.wrzesnia 1843 r. umarl 26. grudnia 1905 r.",
@@ -2418,8 +2424,8 @@ window.POLONIA_RECORDS = [
       "0121-1.jpg"
     ],
     "coords": {
-      "lat": 29.940293,
-      "lon": -97.70581
+      "lat": 29.940308591481926,
+      "lon": -97.70581426053995
     },
     "inscription": [
       "RAKOWITZ",
@@ -2440,8 +2446,8 @@ window.POLONIA_RECORDS = [
       "0122-1.jpg"
     ],
     "coords": {
-      "lat": 29.940285,
-      "lon": -97.705848
+      "lat": 29.940284837697117,
+      "lon": -97.70581336703765
     },
     "inscription": [
       "IKE L. RAKOWITZ",
@@ -2459,8 +2465,8 @@ window.POLONIA_RECORDS = [
       "0123-1.jpg"
     ],
     "coords": {
-      "lat": 29.94031,
-      "lon": -97.705896
+      "lat": 29.940304290620084,
+      "lon": -97.70584876992768
     },
     "inscription": [
       "RAKOWITZ",
@@ -2477,8 +2483,8 @@ window.POLONIA_RECORDS = [
       "0123-1.jpg"
     ],
     "coords": {
-      "lat": 29.940303,
-      "lon": -97.705886
+      "lat": 29.94029761411651,
+      "lon": -97.70584854416263
     },
     "inscription": [
       "RAKOWITZ",
@@ -2495,8 +2501,8 @@ window.POLONIA_RECORDS = [
       "0125-1.jpg"
     ],
     "coords": {
-      "lat": 29.940289,
-      "lon": -97.705883
+      "lat": 29.940303370919388,
+      "lon": -97.705883373054
     },
     "inscription": [
       "PETE RAKOWITZ",
@@ -2513,8 +2519,8 @@ window.POLONIA_RECORDS = [
       "0121-1.jpg"
     ],
     "coords": {
-      "lat": 29.940284,
-      "lon": -97.705809
+      "lat": 29.940302065778752,
+      "lon": -97.70581336684366
     },
     "inscription": [
       "RAKOWITZ",
@@ -2528,13 +2534,34 @@ window.POLONIA_RECORDS = [
   },
   {
     "last_name": "Reed",
+    "first_name": "Danny Joe",
+    "birth_date": "Mar 18, 1956",
+    "death_date": "Jul 21, 2019",
+    "photos": [
+      "0188-1.jpg"
+    ],
+    "coords": {
+      "lat": 29.940483981293916,
+      "lon": -97.70559170526633
+    },
+    "inscription": [
+      "DANNY JOE REED",
+      "LCPL US MARINE CORPS",
+      "MAR 18, 1956 - JUL 21, 2019",
+      "REST IN PEACE"
+    ]
+  },
+  {
+    "last_name": "Reed",
     "first_name": "Joe Walter",
     "birth_date": "May 13, 1937",
     "death_date": "May 7, 2012",
-    "photos": ["0127-1.jpg"],
+    "photos": [
+      "0127-1.jpg"
+    ],
     "coords": {
-      "lat": 29.940462,
-      "lon": -97.705612
+      "lat": 29.94048087976943,
+      "lon": -97.70560811481924
     },
     "inscription": [
       "REED",
@@ -2552,10 +2579,12 @@ window.POLONIA_RECORDS = [
     "first_name": "Tracey Lorene",
     "birth_date": "Jan 27, 1934",
     "death_date": "Sept 30, 2020",
-    "photos": ["0127-1.jpg"],
+    "photos": [
+      "0127-1.jpg"
+    ],
     "coords": {
-      "lat": 29.940469,
-      "lon": -97.705612
+      "lat": 29.94048714444448,
+      "lon": -97.7056093064143
     },
     "inscription": [
       "REED",
@@ -2573,10 +2602,12 @@ window.POLONIA_RECORDS = [
     "first_name": "Bobby Dale",
     "birth_date": "July 21,1929",
     "death_date": "June 8, 2016",
-    "photos": ["0129-1.jpg"],
+    "photos": [
+      "0129-1.jpg"
+    ],
     "coords": {
-      "lat": 29.940408,
-      "lon": -97.705513
+      "lat": 29.940425049177197,
+      "lon": -97.70550862419024
     },
     "inscription": [
       "REESE",
@@ -2601,8 +2632,8 @@ window.POLONIA_RECORDS = [
       "0130-1.jpg"
     ],
     "coords": {
-      "lat": 29.940355,
-      "lon": -97.705502
+      "lat": 29.940368926226462,
+      "lon": -97.70550037032548
     },
     "inscription": [
       "REESE",
@@ -2618,10 +2649,12 @@ window.POLONIA_RECORDS = [
     "first_name": "Loraine Lempa",
     "birth_date": "Oct 3, 1932",
     "death_date": "Aug 29, 2024",
-    "photos": ["0129-1.jpg"],
+    "photos": [
+      "0129-1.jpg"
+    ],
     "coords": {
-      "lat": 29.940398,
-      "lon": -97.705512
+      "lat": 29.940418505032305,
+      "lon": -97.70550783803068
     },
     "inscription": [
       "REESE",
@@ -2646,8 +2679,8 @@ window.POLONIA_RECORDS = [
       "0130-1.jpg"
     ],
     "coords": {
-      "lat": 29.940362,
-      "lon": -97.705502
+      "lat": 29.940376848086064,
+      "lon": -97.70550154956483
     },
     "inscription": [
       "REESE",
@@ -2667,10 +2700,12 @@ window.POLONIA_RECORDS = [
       "0133-1.jpg"
     ],
     "coords": {
-      "lat": 29.940384,
-      "lon": -97.70593
+      "lat": 29.94040230185596,
+      "lon": -97.70592805845112
     },
-    "inscription": ["SCHOLWINSKI AGE 9"]
+    "inscription": [
+      "SCHOLWINSKI AGE 9"
+    ]
   },
   {
     "last_name": "Scholwinski",
@@ -2682,10 +2717,12 @@ window.POLONIA_RECORDS = [
       "0134-1.jpg"
     ],
     "coords": {
-      "lat": 29.940279,
-      "lon": -97.705618
+      "lat": 29.940292958139604,
+      "lon": -97.70561377748251
     },
-    "inscription": ["FRANK SCHOLWINSKI"]
+    "inscription": [
+      "FRANK SCHOLWINSKI"
+    ]
   },
   {
     "last_name": "Scholwinski",
@@ -2696,10 +2733,12 @@ window.POLONIA_RECORDS = [
       "0135-1.jpg"
     ],
     "coords": {
-      "lat": 29.940289,
-      "lon": -97.70562
+      "lat": 29.940306270574077,
+      "lon": -97.70561616067265
     },
-    "inscription": ["MARY SCHOLWINSKI"]
+    "inscription": [
+      "MARY SCHOLWINSKI"
+    ]
   },
   {
     "last_name": "Scholwinski",
@@ -2710,8 +2749,8 @@ window.POLONIA_RECORDS = [
       "0136-1.jpg"
     ],
     "coords": {
-      "lat": 29.940224,
-      "lon": -97.705868
+      "lat": 29.940238122597737,
+      "lon": -97.7058678831911
     },
     "inscription": [
       "MOTHER",
@@ -2726,10 +2765,12 @@ window.POLONIA_RECORDS = [
     "first_name": "Paulette (Fogle)",
     "birth_date": "1954",
     "death_date": "2004",
-    "photos": ["0137-1.jpg"],
+    "photos": [
+      "0137-1.jpg"
+    ],
     "coords": {
-      "lat": 29.940444,
-      "lon": -97.705607
+      "lat": 29.940461824716166,
+      "lon": -97.70560364633772
     },
     "inscription": [
       "PAULETTE (FOGLE) SMITH 1954 - 2004",
@@ -2745,8 +2786,8 @@ window.POLONIA_RECORDS = [
       "0138-1.jpg"
     ],
     "coords": {
-      "lat": 29.940062,
-      "lon": -97.705842
+      "lat": 29.94007177544461,
+      "lon": -97.7058440727888
     },
     "inscription": [
       "SYKOWSKI",
@@ -2770,8 +2811,8 @@ window.POLONIA_RECORDS = [
       "0138-1.jpg"
     ],
     "coords": {
-      "lat": 29.940054,
-      "lon": -97.705841
+      "lat": 29.940064662925604,
+      "lon": -97.70584392388793
     },
     "inscription": [
       "SYKOWSKI",
@@ -2787,52 +2828,144 @@ window.POLONIA_RECORDS = [
     ]
   },
   {
-    "last_name": "Unknown1",
+    "last_name": "Unknown #1",
     "first_name": "",
     "birth_date": null,
     "death_date": null,
-    "photos": [],
+    "photos": [
+      "0142-1.jpg"
+    ],
     "coords": {
-      "lat": 29.940365,
-      "lon": -97.705924
+      "lat": 29.94038298577457,
+      "lon": -97.70592210047576
     },
-    "inscription": []
+    "inscription": [
+      "Broken headstone"
+    ]
   },
   {
-    "last_name": "Unknown2 (Cross with circle)",
+    "last_name": "Unknown #2",
     "first_name": "",
     "birth_date": null,
     "death_date": null,
-    "photos": [],
+    "photos": [
+      "0140-1.jpg"
+    ],
     "coords": {
-      "lat": 29.940275,
-      "lon": -97.705877
+      "lat": 29.94032033902411,
+      "lon": -97.70588456523107
     },
-    "inscription": []
+    "inscription": [
+      "White cross with faded paint on name plate"
+    ]
   },
   {
-    "last_name": "Unknown4",
+    "last_name": "Unknown #3",
     "first_name": "",
     "birth_date": null,
     "death_date": null,
-    "photos": [],
+    "photos": [
+      "0141-1.jpg"
+    ],
     "coords": {
-      "lat": 29.940365,
-      "lon": -97.705924
+      "lat": 29.940289014372407,
+      "lon": -97.70587950037002
     },
-    "inscription": []
+    "inscription": [
+      "White metal cross with circle in center"
+    ]
   },
   {
-    "last_name": "Unreadable",
+    "last_name": "Unknown #4",
     "first_name": "",
     "birth_date": null,
     "death_date": null,
-    "photos": [],
+    "photos": [
+      "0143-1.jpg"
+    ],
     "coords": {
-      "lat": 29.940114,
-      "lon": -97.705687
+      "lat": 29.940262176277326,
+      "lon": -97.70587105547418
     },
-    "inscription": []
+    "inscription": [
+      "White cross with faded paint on name plate"
+    ]
+  },
+  {
+    "last_name": "Unknown #5",
+    "first_name": "",
+    "birth_date": null,
+    "death_date": null,
+    "photos": [
+      "0144-1.jpg"
+    ],
+    "coords": {
+      "lat": 29.940251165294004,
+      "lon": -97.70586937181193
+    },
+    "inscription": [
+      "White cross with faded paint on name plate"
+    ]
+  },
+  {
+    "last_name": "Unknown #6",
+    "first_name": "",
+    "birth_date": null,
+    "death_date": null,
+    "photos": ["0191-1.jpg"],
+    "coords": {
+      "lat": 29.940128080480136,
+      "lon": -97.70568614502889
+    },
+    "inscription": ["Temporary metal marker missing name plate"]
+  },
+  {
+    "last_name": "Unknown #7",
+    "first_name": "",
+    "birth_date": null,
+    "death_date": null,
+    "photos": [
+      "0146-1.jpg"
+    ],
+    "coords": {
+      "lat": 29.939830893509114,
+      "lon": -97.7056887320846
+    },
+    "inscription": [
+      "Rounded top headstone with inscribed cross"
+    ]
+  },
+  {
+    "last_name": "Unknown #8",
+    "first_name": "",
+    "birth_date": null,
+    "death_date": null,
+    "photos": [
+      "0189-1.jpg"
+    ],
+    "coords": {
+      "lat": 29.94037756886184,
+      "lon": -97.70571039459698
+    },
+    "inscription": [
+      "Thin metal cross"
+    ]
+  },
+  {
+    "last_name": "Unknown #9",
+    "first_name": "",
+    "birth_date": null,
+    "death_date": null,
+    "photos": [
+      "0190-1.jpg"
+    ],
+    "coords": {
+      "lat": 29.940339642308434,
+      "lon": -97.70553141953232
+    },
+    "inscription": [
+      "Broken headstone, white metal cross missing paint on name plate"
+    ]
   },
   {
     "last_name": "Urbanski",
@@ -2843,8 +2976,8 @@ window.POLONIA_RECORDS = [
       "0147-1.jpg"
     ],
     "coords": {
-      "lat": 29.94032,
-      "lon": -97.705887
+      "lat": 29.940335161538037,
+      "lon": -97.70588588274086
     },
     "inscription": [
       "ANGELA URBANSKI",
@@ -2862,8 +2995,8 @@ window.POLONIA_RECORDS = [
       "0148-1.jpg"
     ],
     "coords": {
-      "lat": 29.940201,
-      "lon": -97.705864
+      "lat": 29.94021358595381,
+      "lon": -97.70586460630466
     },
     "inscription": [
       "URBANSKI",
@@ -2887,8 +3020,8 @@ window.POLONIA_RECORDS = [
       "0149-2.jpg"
     ],
     "coords": {
-      "lat": 29.940204,
-      "lon": -97.70584
+      "lat": 29.940217240347586,
+      "lon": -97.70583749751682
     },
     "inscription": [
       "JOHN URBANSKI",
@@ -2905,8 +3038,8 @@ window.POLONIA_RECORDS = [
       "0148-1.jpg"
     ],
     "coords": {
-      "lat": 29.940206,
-      "lon": -97.705864
+      "lat": 29.94022115576949,
+      "lon": -97.70586520210219
     },
     "inscription": [
       "URBANSKI",
@@ -2929,8 +3062,8 @@ window.POLONIA_RECORDS = [
       "0151-1.jpg"
     ],
     "coords": {
-      "lat": 29.940341,
-      "lon": -97.7059
+      "lat": 29.94035304023089,
+      "lon": -97.70590378489341
     },
     "inscription": [
       "URBANSKI",
@@ -2951,8 +3084,8 @@ window.POLONIA_RECORDS = [
       "0151-1.jpg"
     ],
     "coords": {
-      "lat": 29.940333,
-      "lon": -97.705899
+      "lat": 29.940345893335813,
+      "lon": -97.70590378489341
     },
     "inscription": [
       "URBANSKI",
@@ -2973,10 +3106,12 @@ window.POLONIA_RECORDS = [
       "0153-1.jpg"
     ],
     "coords": {
-      "lat": 29.940389,
-      "lon": -97.705546
+      "lat": 29.94040611189132,
+      "lon": -97.70554085297773
     },
-    "inscription": ["JOHN VISWIESKI BORN 1860 - DIED AUG 1, 1945, AGE 8"]
+    "inscription": [
+      "JOHN VISWIESKI BORN 1860 - DIED AUG 1, 1945, AGE 8"
+    ]
   },
   {
     "last_name": "Walenta",
@@ -2987,8 +3122,8 @@ window.POLONIA_RECORDS = [
       "0155-1.jpg"
     ],
     "coords": {
-      "lat": 29.939743,
-      "lon": -97.705861
+      "lat": 29.939745680143584,
+      "lon": -97.70586112119369
     },
     "inscription": [
       "WALENTA",
@@ -3009,8 +3144,8 @@ window.POLONIA_RECORDS = [
       "0156-1.jpg"
     ],
     "coords": {
-      "lat": 29.93989,
-      "lon": -97.705648
+      "lat": 29.939900082861655,
+      "lon": -97.70564795615633
     },
     "inscription": [
       "WALENTA",
@@ -3030,8 +3165,8 @@ window.POLONIA_RECORDS = [
       "0155-1.jpg"
     ],
     "coords": {
-      "lat": 29.939754,
-      "lon": -97.705861
+      "lat": 29.939752726444212,
+      "lon": -97.70586206223221
     },
     "inscription": [
       "WALENTA",
@@ -3052,8 +3187,8 @@ window.POLONIA_RECORDS = [
       "0158-1.jpg"
     ],
     "coords": {
-      "lat": 29.940434,
-      "lon": -97.705551
+      "lat": 29.940451920905545,
+      "lon": -97.70554753533399
     },
     "inscription": [
       "CARLA S. WALENTA",
@@ -3070,8 +3205,8 @@ window.POLONIA_RECORDS = [
       "0156-1.jpg"
     ],
     "coords": {
-      "lat": 29.939903,
-      "lon": -97.705649
+      "lat": 29.939909679873047,
+      "lon": -97.7056486935439
     },
     "inscription": [
       "WALENTA",
@@ -3087,10 +3222,12 @@ window.POLONIA_RECORDS = [
     "first_name": "Robert J",
     "birth_date": "May 4, 1924",
     "death_date": "Jan 18, 1984",
-    "photos": ["0160-1.jpg"],
+    "photos": [
+      "0160-1.jpg"
+    ],
     "coords": {
-      "lat": 29.940456,
-      "lon": -97.705557
+      "lat": 29.940473619912282,
+      "lon": -97.70555185921158
     },
     "inscription": [
       "ROBERT J. WALENTA",
@@ -3104,10 +3241,12 @@ window.POLONIA_RECORDS = [
     "first_name": "Laverne E.",
     "birth_date": "July 12, 1931",
     "death_date": "March 19, 2023",
-    "photos": ["0154-1.jpg"],
+    "photos": [
+      "0154-1.jpg"
+    ],
     "coords": {
-      "lat": 29.940446,
-      "lon": -97.705554
+      "lat": 29.94046363148061,
+      "lon": -97.7055495007329
     },
     "inscription": [
       "LAVERNE E. WALENTA LEWIS",
@@ -3120,10 +3259,12 @@ window.POLONIA_RECORDS = [
     "first_name": "James E.",
     "birth_date": "Jan 29, 1955",
     "death_date": " ",
-    "photos": ["0161-1.jpg"],
+    "photos": [
+      "0161-1.jpg"
+    ],
     "coords": {
-      "lat": 29.940226,
-      "lon": -97.705602
+      "lat": 29.940238646004644,
+      "lon": -97.7056001356027
     },
     "inscription": [
       "WILHELM",
@@ -3143,8 +3284,8 @@ window.POLONIA_RECORDS = [
       "0162-1.jpg"
     ],
     "coords": {
-      "lat": 29.940263,
-      "lon": -97.705608
+      "lat": 29.940264165084976,
+      "lon": -97.70560329631337
     },
     "inscription": [
       "WILHELM",
@@ -3166,8 +3307,8 @@ window.POLONIA_RECORDS = [
       "0162-1.jpg"
     ],
     "coords": {
-      "lat": 29.940249,
-      "lon": -97.705607
+      "lat": 29.94025506525788,
+      "lon": -97.70560171595804
     },
     "inscription": [
       "WILHELM",
@@ -3185,10 +3326,12 @@ window.POLONIA_RECORDS = [
     "first_name": "Terrie L.",
     "birth_date": "Feb 26, 1958",
     "death_date": " ",
-    "photos": ["0161-1.jpg"],
+    "photos": [
+      "0161-1.jpg"
+    ],
     "coords": {
-      "lat": 29.940215,
-      "lon": -97.7056
+      "lat": 29.94022855706591,
+      "lon": -97.70559855524736
     },
     "inscription": [
       "WILHELM",
@@ -3209,8 +3352,8 @@ window.POLONIA_RECORDS = [
       "0185-2.jpg"
     ],
     "coords": {
-      "lat": 29.940210,
-      "lon": -97.7050
+      "lat": 29.940391943911933,
+      "lon": -97.70553917776539
     },
     "inscription": [
       "FRANCĘ WIŚNIEWSKI",
@@ -3224,10 +3367,12 @@ window.POLONIA_RECORDS = [
     "first_name": "Pearl Agnes",
     "birth_date": "Feb 14, 1892",
     "death_date": "Dec 28, 1969",
-    "photos": ["0165-1.jpg"],
+    "photos": [
+      "0165-1.jpg"
+    ],
     "coords": {
-      "lat": 29.940416,
-      "lon": -97.705549
+      "lat": 29.940434355042946,
+      "lon": -97.70554360453619
     },
     "inscription": [
       "PEARL AGNES WISNIEWSKI",
@@ -3244,8 +3389,8 @@ window.POLONIA_RECORDS = [
       "0166-1.jpg"
     ],
     "coords": {
-      "lat": 29.940401,
-      "lon": -97.705547
+      "lat": 29.94041885575242,
+      "lon": -97.70554242529685
     },
     "inscription": [
       "STEVE WISNIEWSKI",
@@ -3262,8 +3407,8 @@ window.POLONIA_RECORDS = [
       "0167-1.jpg"
     ],
     "coords": {
-      "lat": 29.940105,
-      "lon": -97.705684
+      "lat": 29.940116211140445,
+      "lon": -97.70568298431822
     },
     "inscription": [
       "ANTOLA ZALESKI",
@@ -3281,8 +3426,8 @@ window.POLONIA_RECORDS = [
       "0168-1.jpg"
     ],
     "coords": {
-      "lat": 29.940046,
-      "lon": -97.705802
+      "lat": 29.940056364513882,
+      "lon": -97.7058025427112
     },
     "inscription": [
       "ZALESKI",
@@ -3303,8 +3448,8 @@ window.POLONIA_RECORDS = [
       "0169-1.jpg"
     ],
     "coords": {
-      "lat": 29.940129,
-      "lon": -97.705688
+      "lat": 29.940141922893183,
+      "lon": -97.70568817654677
     },
     "inscription": [
       "GEORGE E ZALESKI",
@@ -3322,8 +3467,8 @@ window.POLONIA_RECORDS = [
       "0170-1.jpg"
     ],
     "coords": {
-      "lat": 29.940141,
-      "lon": -97.70569
+      "lat": 29.94015300094356,
+      "lon": -97.70568998266715
     },
     "inscription": [
       "JIMMIE GERALD ZALESKI",
@@ -3336,10 +3481,12 @@ window.POLONIA_RECORDS = [
     "first_name": "John B",
     "birth_date": "Feb 2, 1910",
     "death_date": "Mar 14, 1965",
-    "photos": ["0171-1.jpg"],
+    "photos": [
+      "0171-1.jpg"
+    ],
     "coords": {
-      "lat": 29.940315,
-      "lon": -97.70567
+      "lat": 29.94033132458133,
+      "lon": -97.70566620753624
     },
     "inscription": [
       "FATHER",
@@ -3353,10 +3500,12 @@ window.POLONIA_RECORDS = [
     "first_name": "Joseph \"Joe\"",
     "birth_date": "Jan 19, 1888",
     "death_date": "Dec 13, 1961",
-    "photos": ["0172-1.jpg"],
+    "photos": [
+      "0172-1.jpg"
+    ],
     "coords": {
-      "lat": 29.940095,
-      "lon": -97.705683
+      "lat": 29.94010632002404,
+      "lon": -97.70568117819784
     },
     "inscription": [
       "JOSEPH \"JOE\" ZALESKI",
@@ -3374,8 +3523,8 @@ window.POLONIA_RECORDS = [
       "0173-1.jpg"
     ],
     "coords": {
-      "lat": 29.940072,
-      "lon": -97.705808
+      "lat": 29.94008517475731,
+      "lon": -97.70581009380493
     },
     "inscription": [
       "JOSEPHINE ZALESKI",
@@ -3392,8 +3541,8 @@ window.POLONIA_RECORDS = [
       "0168-1.jpg"
     ],
     "coords": {
-      "lat": 29.940056,
-      "lon": -97.705804
+      "lat": 29.94006407958468,
+      "lon": -97.70580468747916
     },
     "inscription": [
       "ZALESKI",
@@ -3414,8 +3563,8 @@ window.POLONIA_RECORDS = [
       "0175-1.jpg"
     ],
     "coords": {
-      "lat": 29.940328,
-      "lon": -97.705671
+      "lat": 29.940344114959547,
+      "lon": -97.70566888862515
     },
     "inscription": [
       "MOTHER",
@@ -3433,8 +3582,8 @@ window.POLONIA_RECORDS = [
       "0176-1.jpg"
     ],
     "coords": {
-      "lat": 29.940136,
-      "lon": -97.705828
+      "lat": 29.940141817860848,
+      "lon": -97.70582796773097
     },
     "inscription": [
       "ZALESKI",
@@ -3456,8 +3605,8 @@ window.POLONIA_RECORDS = [
       "0176-1.jpg"
     ],
     "coords": {
-      "lat": 29.940144,
-      "lon": -97.70583
+      "lat": 29.940151475901544,
+      "lon": -97.70583154251618
     },
     "inscription": [
       "ZALESKI",
@@ -3479,8 +3628,8 @@ window.POLONIA_RECORDS = [
       "0178-1.jpg"
     ],
     "coords": {
-      "lat": 29.940097,
-      "lon": -97.705815
+      "lat": 29.94010945037311,
+      "lon": -97.70581813707165
     },
     "inscription": [
       "ZALEWSKI",
@@ -3497,8 +3646,8 @@ window.POLONIA_RECORDS = [
       "0178-1.jpg"
     ],
     "coords": {
-      "lat": 29.940092,
-      "lon": -97.705814
+      "lat": 29.940102663641813,
+      "lon": -97.70581605178027
     },
     "inscription": [
       "ZALEWSKI",
@@ -3515,8 +3664,8 @@ window.POLONIA_RECORDS = [
       "0180-1.jpg"
     ],
     "coords": {
-      "lat": 29.940302,
-      "lon": -97.705668
+      "lat": 29.94032271065314,
+      "lon": -97.70566412224487
     },
     "inscription": [
       "JOHN ZALOSKI JR.",
@@ -3535,8 +3684,8 @@ window.POLONIA_RECORDS = [
       "0181-2.jpg"
     ],
     "coords": {
-      "lat": 29.940115,
-      "lon": -97.70589
+      "lat": 29.940125112060727,
+      "lon": -97.70589052647213
     },
     "inscription": [
       "RAIMUT ZOLEWSKI",

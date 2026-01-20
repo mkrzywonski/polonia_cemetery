@@ -497,6 +497,7 @@ img {
 
 .leaflet-container {
   background: #f7f1e9;
+  z-index: 1;
 }
 
 .map-controls {
@@ -647,7 +648,8 @@ img {
   visibility: hidden;
   transition: opacity 0.2s ease;
   padding: 24px;
-  z-index: 10000;
+  z-index: 99999;
+  isolation: isolate;
 }
 
 .modal.is-open {
