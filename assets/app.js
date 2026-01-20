@@ -1,3 +1,5 @@
+const EDIT_MODE_ENABLED = false;
+
 const listEl = document.querySelector('[data-records]');
 const countEl = document.querySelector('[data-count]');
 const searchEl = document.querySelector('[data-search]');
@@ -435,7 +437,7 @@ const initMap = (recordsData) => {
   mapInstance.fitBounds(bounds, { padding: [20, 20] });
   mapInstance.setMinZoom(mapInstance.getZoom());
 
-  const controls = createEditControls();
+  const controls = EDIT_MODE_ENABLED ? createEditControls() : null;
 
   const swapImageOverlay = (useEditImage) => {
     const url = useEditImage ? mapConfig.editImageUrl : mapConfig.imageUrl;
@@ -468,56 +470,60 @@ const initMap = (recordsData) => {
       }
     });
 
-    marker.on('drag', (e) => {
-      const latlng = e.target.getLatLng();
-      const newGps = imageToGps(latlng.lng, height - latlng.lat);
-      modifiedCoords.set(record.id, newGps);
-      updateEditStatus(controls.statusEl, controls.exportBtn);
-    });
+    if (EDIT_MODE_ENABLED) {
+      marker.on('drag', (e) => {
+        const latlng = e.target.getLatLng();
+        const newGps = imageToGps(latlng.lng, height - latlng.lat);
+        modifiedCoords.set(record.id, newGps);
+        updateEditStatus(controls.statusEl, controls.exportBtn);
+      });
+    }
 
     marker.recordId = record.id;
     markersById.set(record.id, marker);
   });
 
-  controls.toggleBtn.addEventListener('click', () => {
-    editMode = !editMode;
-    controls.toggleBtn.classList.toggle('is-active', editMode);
-    controls.toggleBtn.textContent = editMode ? 'Exit Edit Mode' : 'Edit Mode';
-    swapImageOverlay(editMode);
+  if (EDIT_MODE_ENABLED && controls) {
+    controls.toggleBtn.addEventListener('click', () => {
+      editMode = !editMode;
+      controls.toggleBtn.classList.toggle('is-active', editMode);
+      controls.toggleBtn.textContent = editMode ? 'Exit Edit Mode' : 'Edit Mode';
+      swapImageOverlay(editMode);
 
-    markersById.forEach((marker) => {
-      if (editMode) {
-        marker.options.draggable = true;
-        marker.dragging = new L.Handler.CircleMarkerDrag(marker);
-        marker.dragging.enable();
-      } else if (marker.dragging) {
-        marker.dragging.disable();
+      markersById.forEach((marker) => {
+        if (editMode) {
+          marker.options.draggable = true;
+          marker.dragging = new L.Handler.CircleMarkerDrag(marker);
+          marker.dragging.enable();
+        } else if (marker.dragging) {
+          marker.dragging.disable();
+        }
+      });
+    });
+
+    controls.exportBtn.addEventListener('click', () => {
+      controls.exportTextarea.value = generateExport();
+      controls.exportModal.classList.add('is-open');
+    });
+
+    controls.copyBtn.addEventListener('click', () => {
+      controls.exportTextarea.select();
+      navigator.clipboard.writeText(controls.exportTextarea.value).then(() => {
+        controls.copyBtn.textContent = 'Copied!';
+        setTimeout(() => { controls.copyBtn.textContent = 'Copy to Clipboard'; }, 2000);
+      });
+    });
+
+    controls.closeExportBtn.addEventListener('click', () => {
+      controls.exportModal.classList.remove('is-open');
+    });
+
+    controls.exportModal.addEventListener('click', (e) => {
+      if (e.target === controls.exportModal) {
+        controls.exportModal.classList.remove('is-open');
       }
     });
-  });
-
-  controls.exportBtn.addEventListener('click', () => {
-    controls.exportTextarea.value = generateExport();
-    controls.exportModal.classList.add('is-open');
-  });
-
-  controls.copyBtn.addEventListener('click', () => {
-    controls.exportTextarea.select();
-    navigator.clipboard.writeText(controls.exportTextarea.value).then(() => {
-      controls.copyBtn.textContent = 'Copied!';
-      setTimeout(() => { controls.copyBtn.textContent = 'Copy to Clipboard'; }, 2000);
-    });
-  });
-
-  controls.closeExportBtn.addEventListener('click', () => {
-    controls.exportModal.classList.remove('is-open');
-  });
-
-  controls.exportModal.addEventListener('click', (e) => {
-    if (e.target === controls.exportModal) {
-      controls.exportModal.classList.remove('is-open');
-    }
-  });
+  }
 
   mapInstance.invalidateSize();
   window.addEventListener('resize', () => {
