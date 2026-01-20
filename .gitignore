@@ -17,6 +17,7 @@ find-unreferenced.js
 resize-images.sh
 sort-records.js
 delete-unreferenced.js
+restore-missing.sh
 
 # Misc
 *.kml
