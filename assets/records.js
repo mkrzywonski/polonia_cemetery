@@ -511,16 +511,14 @@ window.POLONIA_RECORDS = [
       "DAVID GEORGE",
       "OCT 29, 1932",
       "APR 19, 2013",
-      "[Redacted]",
-      "[Redacted]",
       "OUR FATHER WHO ART IN HEAVEN"
     ]
   },
   {
     "last_name": "Colby",
-    "first_name": "[Redacted]",
-    "birth_date": "[Redacted]",
-    "death_date": " ",
+    "first_name": "[Living]",
+    "birth_date": "",
+    "death_date": "",
     "photos": [
       "0025-1.jpg"
     ],
@@ -533,8 +531,6 @@ window.POLONIA_RECORDS = [
       "DAVID GEORGE",
       "OCT 29, 1932",
       "APR 19, 2013",
-      "[Redacted]",
-      "[Redacted]",
       "OUR FATHER WHO ART IN HEAVEN"
     ]
   },
@@ -578,9 +574,9 @@ window.POLONIA_RECORDS = [
   },
   {
     "last_name": "Dzenowski",
-    "first_name": "[Redacted]",
-    "birth_date": "[Redacted]",
-    "death_date": " ",
+    "first_name": "[Living]",
+    "birth_date": "",
+    "death_date": "",
     "photos": [
       "0033-1.jpg"
     ],
@@ -589,11 +585,7 @@ window.POLONIA_RECORDS = [
       "lon": -97.70554618444581
     },
     "inscription": [
-      "DZENOWSKI",
-      "[Redacted]",
-      "[Redacted]",
-      "[Redacted]",
-      "[Redacted]"
+      "DZENOWSKI"
     ]
   },
   {
@@ -614,9 +606,9 @@ window.POLONIA_RECORDS = [
   },
   {
     "last_name": "Dzenowski",
-    "first_name": "[Redacted]",
-    "birth_date": "[Redacted]",
-    "death_date": " ",
+    "first_name": "[Living]",
+    "birth_date": "",
+    "death_date": "",
     "photos": [
       "0033-1.jpg"
     ],
@@ -625,11 +617,7 @@ window.POLONIA_RECORDS = [
       "lon": -97.70554166926736
     },
     "inscription": [
-      "DZENOWSKI",
-      "[Redacted]",
-      "[Redacted]",
-      "[Redacted]",
-      "[Redacted]"
+      "DZENOWSKI"
     ]
   },
   {
@@ -1462,9 +1450,9 @@ window.POLONIA_RECORDS = [
   },
   {
     "last_name": "Kalinowski",
-    "first_name": "[Redacted]",
-    "birth_date": "[Redacted]",
-    "death_date": " ",
+    "first_name": "[Living]",
+    "birth_date": "",
+    "death_date": "",
     "photos": [
       "0183-1.jpg"
     ],
@@ -1476,10 +1464,7 @@ window.POLONIA_RECORDS = [
       "KALINOWSKI",
       "MIKE T.",
       "AUG 23, 1931",
-      "MAR 24, 2008",
-      "[Redacted]",
-      "[Redacted]",
-      "[Redacted]"
+      "MAR 24, 2008"
     ]
   },
   {
@@ -1515,10 +1500,7 @@ window.POLONIA_RECORDS = [
       "KALINOWSKI",
       "MIKE T.",
       "AUG 23, 1931",
-      "MAR 24, 2008",
-      "[Redacted]",
-      "[Redacted]",
-      "[Redacted]"
+      "MAR 24, 2008"
     ]
   },
   {
@@ -2135,9 +2117,9 @@ window.POLONIA_RECORDS = [
   },
   {
     "last_name": "Lempar",
-    "first_name": "[Redacted]",
-    "birth_date": "[Redacted]",
-    "death_date": " ",
+    "first_name": "[Living]",
+    "birth_date": "",
+    "death_date": "",
     "photos": [
       "0109-1.jpg"
     ],
@@ -2151,8 +2133,6 @@ window.POLONIA_RECORDS = [
       "AUG 20, 1959",
       "NOV 17, 2018",
       "BELOVED HUSBAND",
-      "[Redacted]",
-      "[Redacted]",
       "BELOVED WIFE",
       "TOGETHER FOREVER"
     ]
@@ -2198,8 +2178,6 @@ window.POLONIA_RECORDS = [
       "AUG 20, 1959",
       "NOV 17, 2018",
       "BELOVED HUSBAND",
-      "[Redacted]",
-      "[Redacted]",
       "BELOVED WIFE",
       "TOGETHER FOREVER"
     ]
@@ -2340,9 +2318,9 @@ window.POLONIA_RECORDS = [
   },
   {
     "last_name": "Perry",
-    "first_name": "[Redacted]",
-    "birth_date": "[Redacted]",
-    "death_date": " ",
+    "first_name": "[Living]",
+    "birth_date": "",
+    "death_date": "",
     "photos": [
       "0117-1.jpg"
     ],
@@ -2351,11 +2329,7 @@ window.POLONIA_RECORDS = [
       "lon": -97.70582048844805
     },
     "inscription": [
-      "PERRY",
-      "[Redacted]",
-      "[Redacted]",
-      "[Redacted]",
-      "[Redacted]"
+      "PERRY"
     ]
   },
   {
@@ -2379,9 +2353,9 @@ window.POLONIA_RECORDS = [
   },
   {
     "last_name": "Perry",
-    "first_name": "[Redacted]",
-    "birth_date": "[Redacted]",
-    "death_date": " ",
+    "first_name": "[Living]",
+    "birth_date": "",
+    "death_date": "",
     "photos": [
       "0117-1.jpg"
     ],
@@ -2390,11 +2364,7 @@ window.POLONIA_RECORDS = [
       "lon": -97.7058196329585
     },
     "inscription": [
-      "PERRY",
-      "[Redacted]",
-      "[Redacted]",
-      "[Redacted]",
-      "[Redacted]"
+      "PERRY"
     ]
   },
   {
@@ -2625,9 +2595,9 @@ window.POLONIA_RECORDS = [
   },
   {
     "last_name": "Reese",
-    "first_name": "[Redacted]",
-    "birth_date": "[Redacted]",
-    "death_date": " ",
+    "first_name": "[Living]",
+    "birth_date": "",
+    "death_date": "",
     "photos": [
       "0130-1.jpg"
     ],
@@ -2637,8 +2607,6 @@ window.POLONIA_RECORDS = [
     },
     "inscription": [
       "REESE",
-      "[Redacted]",
-      "[Redacted]",
       "TIMOTHY WILLIAM",
       "NOV 6, 1951",
       "DEC 28, 2001"
@@ -2684,8 +2652,6 @@ window.POLONIA_RECORDS = [
     },
     "inscription": [
       "REESE",
-      "[Redacted]",
-      "[Redacted]",
       "TIMOTHY WILLIAM",
       "NOV 6, 1951",
       "DEC 28, 2001"
@@ -2912,12 +2878,16 @@ window.POLONIA_RECORDS = [
     "first_name": "",
     "birth_date": null,
     "death_date": null,
-    "photos": ["0191-1.jpg"],
+    "photos": [
+      "0191-1.jpg"
+    ],
     "coords": {
       "lat": 29.940128080480136,
       "lon": -97.70568614502889
     },
-    "inscription": ["Temporary metal marker missing name plate"]
+    "inscription": [
+      "Temporary metal marker missing name plate"
+    ]
   },
   {
     "last_name": "Unknown #7",
@@ -3130,16 +3100,14 @@ window.POLONIA_RECORDS = [
       "ADOLPH",
       "DEC 17, 1922",
       "FEB 15, 1989",
-      "[Redacted]",
-      "[Redacted]",
       "IN LOVING MEMORY"
     ]
   },
   {
     "last_name": "Walenta",
-    "first_name": "[Redacted]",
-    "birth_date": "[Redacted]",
-    "death_date": " ",
+    "first_name": "[Living]",
+    "birth_date": "",
+    "death_date": "",
     "photos": [
       "0156-1.jpg"
     ],
@@ -3149,8 +3117,6 @@ window.POLONIA_RECORDS = [
     },
     "inscription": [
       "WALENTA",
-      "[Redacted]",
-      "[Redacted]",
       "JOYCE MARIE",
       "JULY 23, 1945",
       "MAR 16, 2020"
@@ -3158,9 +3124,9 @@ window.POLONIA_RECORDS = [
   },
   {
     "last_name": "Walenta",
-    "first_name": "[Redacted]",
-    "birth_date": "[Redacted]",
-    "death_date": " ",
+    "first_name": "[Living]",
+    "birth_date": "",
+    "death_date": "",
     "photos": [
       "0155-1.jpg"
     ],
@@ -3173,8 +3139,6 @@ window.POLONIA_RECORDS = [
       "ADOLPH",
       "DEC 17, 1922",
       "FEB 15, 1989",
-      "[Redacted]",
-      "[Redacted]",
       "IN LOVING MEMORY"
     ]
   },
@@ -3210,8 +3174,6 @@ window.POLONIA_RECORDS = [
     },
     "inscription": [
       "WALENTA",
-      "[Redacted]",
-      "[Redacted]",
       "JOYCE MARIE",
       "JULY 23, 1945",
       "MAR 16, 2020"
@@ -3256,9 +3218,9 @@ window.POLONIA_RECORDS = [
   },
   {
     "last_name": "Wilhelm",
-    "first_name": "[Redacted]",
-    "birth_date": "[Redacted]",
-    "death_date": " ",
+    "first_name": "[Living]",
+    "birth_date": "",
+    "death_date": "",
     "photos": [
       "0161-1.jpg"
     ],
@@ -3267,12 +3229,7 @@ window.POLONIA_RECORDS = [
       "lon": -97.7056001356027
     },
     "inscription": [
-      "WILHELM",
-      "[Redacted]",
-      "[Redacted]",
-      "[Redacted]",
-      "[Redacted]",
-      "[Redacted]"
+      "WILHELM"
     ]
   },
   {
@@ -3323,9 +3280,9 @@ window.POLONIA_RECORDS = [
   },
   {
     "last_name": "Wilhelm",
-    "first_name": "[Redacted]",
-    "birth_date": "[Redacted]",
-    "death_date": " ",
+    "first_name": "[Living]",
+    "birth_date": "",
+    "death_date": "",
     "photos": [
       "0161-1.jpg"
     ],
@@ -3334,12 +3291,7 @@ window.POLONIA_RECORDS = [
       "lon": -97.70559855524736
     },
     "inscription": [
-      "WILHELM",
-      "[Redacted]",
-      "[Redacted]",
-      "[Redacted]",
-      "[Redacted]",
-      "[Redacted]"
+      "WILHELM"
     ]
   },
   {

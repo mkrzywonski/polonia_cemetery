@@ -25,3 +25,7 @@ restore-missing.sh
 *.txt
 !LICENSE.txt
 !CONTENT_LICENSE.txt
+
+# Private working data — never published. Holds unreferenced/original images and
+# any unredacted source data. See the remediation notes kept outside this repo.
+/private/
