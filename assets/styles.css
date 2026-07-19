@@ -632,6 +632,12 @@ img {
   color: var(--ink-soft);
 }
 
+.footer-privacy {
+  margin-top: 12px;
+  font-size: 0.9rem;
+  max-width: 70ch;
+}
+
 .footer-license {
   margin-top: 12px;
   font-size: 0.9rem;
