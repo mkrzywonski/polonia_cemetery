@@ -2567,8 +2567,8 @@ window.POLONIA_RECORDS = [
       "REED",
       "JOE WALTER (USAF)",
       "MAY 13, 1937",
-      "MAY 7M 2012",
-      "TACY LORENE BERAN",
+      "MAY 7, 2012",
+      "TRACY LORENE BERAN",
       "JAN 27, 1934",
       "SEPT 30, 2020",
       "OUR LOVE ENDURED"
@@ -2576,7 +2576,7 @@ window.POLONIA_RECORDS = [
   },
   {
     "last_name": "Reed",
-    "first_name": "Tracey Lorene",
+    "first_name": "Tracy Lorene",
     "birth_date": "Jan 27, 1934",
     "death_date": "Sept 30, 2020",
     "photos": [
@@ -2590,8 +2590,8 @@ window.POLONIA_RECORDS = [
       "REED",
       "JOE WALTER (USAF)",
       "MAY 13, 1937",
-      "MAY 7M 2012",
-      "TACY LORENE BERAN",
+      "MAY 7, 2012",
+      "TRACY LORENE BERAN",
       "JAN 27, 1934",
       "SEPT 30, 2020",
       "OUR LOVE ENDURED"
@@ -2600,7 +2600,7 @@ window.POLONIA_RECORDS = [
   {
     "last_name": "Reese",
     "first_name": "Bobby Dale",
-    "birth_date": "July 21,1929",
+    "birth_date": "July 21, 1929",
     "death_date": "June 8, 2016",
     "photos": [
       "0129-1.jpg"
@@ -3425,7 +3425,7 @@ window.POLONIA_RECORDS = [
     "last_name": "Zaleski",
     "first_name": "Constance",
     "birth_date": "Sept 10, 1895",
-    "death_date": "Mer 21, 1970",
+    "death_date": "Mar 21, 1970",
     "photos": [
       "0168-1.jpg"
     ],
