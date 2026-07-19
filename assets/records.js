@@ -511,6 +511,8 @@ window.POLONIA_RECORDS = [
       "DAVID GEORGE",
       "OCT 29, 1932",
       "APR 19, 2013",
+      "[Redacted]",
+      "[Redacted]",
       "OUR FATHER WHO ART IN HEAVEN"
     ]
   },
@@ -531,6 +533,8 @@ window.POLONIA_RECORDS = [
       "DAVID GEORGE",
       "OCT 29, 1932",
       "APR 19, 2013",
+      "[Redacted]",
+      "[Redacted]",
       "OUR FATHER WHO ART IN HEAVEN"
     ]
   },
@@ -585,7 +589,11 @@ window.POLONIA_RECORDS = [
       "lon": -97.70554618444581
     },
     "inscription": [
-      "DZENOWSKI"
+      "DZENOWSKI",
+      "[Redacted]",
+      "[Redacted]",
+      "[Redacted]",
+      "[Redacted]"
     ]
   },
   {
@@ -617,7 +625,11 @@ window.POLONIA_RECORDS = [
       "lon": -97.70554166926736
     },
     "inscription": [
-      "DZENOWSKI"
+      "DZENOWSKI",
+      "[Redacted]",
+      "[Redacted]",
+      "[Redacted]",
+      "[Redacted]"
     ]
   },
   {
@@ -1464,7 +1476,10 @@ window.POLONIA_RECORDS = [
       "KALINOWSKI",
       "MIKE T.",
       "AUG 23, 1931",
-      "MAR 24, 2008"
+      "MAR 24, 2008",
+      "[Redacted]",
+      "[Redacted]",
+      "[Redacted]"
     ]
   },
   {
@@ -1500,7 +1515,10 @@ window.POLONIA_RECORDS = [
       "KALINOWSKI",
       "MIKE T.",
       "AUG 23, 1931",
-      "MAR 24, 2008"
+      "MAR 24, 2008",
+      "[Redacted]",
+      "[Redacted]",
+      "[Redacted]"
     ]
   },
   {
@@ -2133,6 +2151,8 @@ window.POLONIA_RECORDS = [
       "AUG 20, 1959",
       "NOV 17, 2018",
       "BELOVED HUSBAND",
+      "[Redacted]",
+      "[Redacted]",
       "BELOVED WIFE",
       "TOGETHER FOREVER"
     ]
@@ -2178,6 +2198,8 @@ window.POLONIA_RECORDS = [
       "AUG 20, 1959",
       "NOV 17, 2018",
       "BELOVED HUSBAND",
+      "[Redacted]",
+      "[Redacted]",
       "BELOVED WIFE",
       "TOGETHER FOREVER"
     ]
@@ -2329,7 +2351,11 @@ window.POLONIA_RECORDS = [
       "lon": -97.70582048844805
     },
     "inscription": [
-      "PERRY"
+      "PERRY",
+      "[Redacted]",
+      "[Redacted]",
+      "[Redacted]",
+      "[Redacted]"
     ]
   },
   {
@@ -2364,7 +2390,11 @@ window.POLONIA_RECORDS = [
       "lon": -97.7058196329585
     },
     "inscription": [
-      "PERRY"
+      "PERRY",
+      "[Redacted]",
+      "[Redacted]",
+      "[Redacted]",
+      "[Redacted]"
     ]
   },
   {
@@ -2607,6 +2637,8 @@ window.POLONIA_RECORDS = [
     },
     "inscription": [
       "REESE",
+      "[Redacted]",
+      "[Redacted]",
       "TIMOTHY WILLIAM",
       "NOV 6, 1951",
       "DEC 28, 2001"
@@ -2652,6 +2684,8 @@ window.POLONIA_RECORDS = [
     },
     "inscription": [
       "REESE",
+      "[Redacted]",
+      "[Redacted]",
       "TIMOTHY WILLIAM",
       "NOV 6, 1951",
       "DEC 28, 2001"
@@ -3100,6 +3134,8 @@ window.POLONIA_RECORDS = [
       "ADOLPH",
       "DEC 17, 1922",
       "FEB 15, 1989",
+      "[Redacted]",
+      "[Redacted]",
       "IN LOVING MEMORY"
     ]
   },
@@ -3117,6 +3153,8 @@ window.POLONIA_RECORDS = [
     },
     "inscription": [
       "WALENTA",
+      "[Redacted]",
+      "[Redacted]",
       "JOYCE MARIE",
       "JULY 23, 1945",
       "MAR 16, 2020"
@@ -3139,6 +3177,8 @@ window.POLONIA_RECORDS = [
       "ADOLPH",
       "DEC 17, 1922",
       "FEB 15, 1989",
+      "[Redacted]",
+      "[Redacted]",
       "IN LOVING MEMORY"
     ]
   },
@@ -3174,6 +3214,8 @@ window.POLONIA_RECORDS = [
     },
     "inscription": [
       "WALENTA",
+      "[Redacted]",
+      "[Redacted]",
       "JOYCE MARIE",
       "JULY 23, 1945",
       "MAR 16, 2020"
@@ -3229,7 +3271,12 @@ window.POLONIA_RECORDS = [
       "lon": -97.7056001356027
     },
     "inscription": [
-      "WILHELM"
+      "WILHELM",
+      "[Redacted]",
+      "[Redacted]",
+      "[Redacted]",
+      "[Redacted]",
+      "[Redacted]"
     ]
   },
   {
@@ -3291,7 +3338,12 @@ window.POLONIA_RECORDS = [
       "lon": -97.70559855524736
     },
     "inscription": [
-      "WILHELM"
+      "WILHELM",
+      "[Redacted]",
+      "[Redacted]",
+      "[Redacted]",
+      "[Redacted]",
+      "[Redacted]"
     ]
   },
   {

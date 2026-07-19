@@ -15,7 +15,8 @@ What is removed for anyone flagged "living":
   - first_name          -> "[Living]"
   - birth_date          -> ""
   - death_date          -> ""   (the " " sentinel means "living"; see notes below)
-  - inscription lines carrying their name, their date of birth, or a marriage date
+  - inscription lines carrying their name, their date of birth, or a marriage
+    date -> each replaced with "[Redacted]" (not dropped: see below)
 
 What is deliberately kept:
   - last_name           -- already disclosed by the deceased spouse on the same stone,
@@ -42,6 +43,7 @@ SOURCE = ROOT / "private" / "records.source.json"
 OUTPUT = ROOT / "assets" / "records.js"
 
 LIVING_NAME = "[Living]"
+REDACTED_LINE = "[Redacted]"
 
 
 def is_living(rec):
@@ -98,8 +100,14 @@ def build(records, verbose=True):
             reason = line_is_pii(line, living)
             if reason:
                 removed_total += 1
+                # Substitute a placeholder rather than dropping the line. Silently
+                # removing it makes the remaining text look like the whole stone, so a
+                # reader sees a "[Living]" record whose inscription names only the
+                # deceased spouse -- which reads as a duplicate of the spouse's record.
+                # The placeholder shows that text existed and was withheld.
+                kept.append(REDACTED_LINE)
                 if verbose:
-                    print(f"  {photo}: removed {line!r} ({reason})")
+                    print(f"  {photo}: redacted {line!r} ({reason})")
             else:
                 kept.append(line)
         for rec in group:
@@ -143,7 +151,7 @@ def main():
     print(f"source: {len(records)} records, {len(living)} flagged living")
 
     out, removed = build(records)
-    print(f"removed {removed} inscription lines")
+    print(f"redacted {removed} inscription lines")
 
     payload = "window.POLONIA_RECORDS = " + json.dumps(out, indent=2, ensure_ascii=False) + ";\n"
 
